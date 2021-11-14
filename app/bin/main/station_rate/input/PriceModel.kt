@@ -104,34 +104,43 @@ fun loadPricingData(): Any {
                 "${entry.age}-${entry.size}-${entry.dist}"
             }
         }
-    val shibuyaRecords = stationPriceData["Shibuya"]!!
-        .mapValues {
+
+    val refStation = stationPriceData
+        .maxByOrNull { it.value.size }!!
+
+    println("Using reference station ${refStation.key}")
+
+    val referenceRecords = refStation.value.mapValues {
             it.value.map { it.TradePrice }.average()
         }
 
-    @Suppress("CANDIDATE_CHOSEN_USING_OVERLOAD_RESOLUTION_BY_LAMBDA_ANNOTATION")
+    failures = 0
     val relativePrices = stationPriceData.mapValues {
         it.value.flatMap<String, List<PriceModel>, Double> {
-            val ref = shibuyaRecords[it.key]
+            val refCost = referenceRecords[it.key]
             val vals = it.value
-            if (ref == null)
+            if (refCost == null) {
+                failures++
                 return@flatMap listOf<Double>()
-
-            val shibCost: Double = ref
+            }
 
             return@flatMap vals.map { entry ->
-                entry.TradePrice / shibCost
+                entry.TradePrice / refCost
             }
 
         }
         }.mapValues {
             it.value.map {
-                it.coerceIn(.1, 2.0) }.average()
+                it.coerceIn(.1, 5.0) }.average()
         }
 
-    relativePrices.forEach { s, d ->
-        println("$s: $d")
-    }
-    println(relativePrices)
+    println("$failures entries couldn't be matched")
+    relativePrices
+        .toList()
+        .sortedByDescending { it.second }
+        .forEach {
+            println("${it.first}: ${it.second}")
+        }
+
     return 0
 }
