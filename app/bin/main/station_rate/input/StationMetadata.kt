@@ -25,16 +25,24 @@ data class Line (
 )
 
 @Serializable
-data class Station (
-    val id: Int,
-    val gid: Int,
-    val name: Name,    
+data class Location (
     val lat: Double,
     val lng: Double
 )
 
+@Serializable
+data class Station (
+    val id: Int,
+    val gid: Int,
+    val name: Name,
+    val location: Location
+) {
+    val lat get() = location.lat
+    val lng get() = location.lng
+}
+
 fun loadStationMetadata(): List<Region> {
     val txt = Thread.currentThread().contextClassLoader.getResource("station_metadata.json").readText()
-    val root = Json.decodeFromString<List<Region>>(txt)
+    val root = Json {ignoreUnknownKeys = true}.decodeFromString<List<Region>>(txt)
     return root
 }

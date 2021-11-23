@@ -22,6 +22,9 @@ class Station(
     val lng: Double
 
 ) {
+    var restaurantScore: Double? = null
+    var priceScore: Double? = null
+
     // val lines: MutableList<Line> = mutableListOf()
     val names: MutableList<StationName> = mutableListOf()
     val englishName: String? get() = names.firstOrNull { it.type == StationNameType.English }?.name

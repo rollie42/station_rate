@@ -2,6 +2,7 @@ package station_rate.input.pricing
 
 import kotlinx.serialization.*
 import kotlinx.serialization.csv.Csv
+import station_rate.normalize
 
 @Serializable
 data class PriceModel(
@@ -73,32 +74,40 @@ data class PriceModel(
             else -> "old"
         }
     }
+
+    val nearestStationNormalized get() = this.NearestStation.normalize()
 }
 
 @ExperimentalSerializationApi
-fun loadPricingData(): Any {
+fun loadPricingData(): Map<String, Double> {
     val csv = Csv {
         hasHeaderRecord = false
         ignoreEmptyLines = true
     }
-    val txt = Thread.currentThread().contextClassLoader.getResource("housing_prices_13.csv").readText()
     var failures = 0
-    val pricing = txt
-        .lines()
-        .drop(1)
-        .mapNotNull {
-            try {
-                csv.decodeFromString<PriceModel>(it)
-            } catch (e: Throwable) {
-                failures++
-                null
+
+    val pricing = listOf("housing_prices_11.csv", "housing_prices_13.csv", "housing_prices_14.csv").flatMap {
+
+        val txt = Thread.currentThread().contextClassLoader.getResource(it).readText()
+
+        val pricing = txt
+            .lines()
+            .drop(1)
+            .mapNotNull {
+                try {
+                    csv.decodeFromString<PriceModel>(it)
+                } catch (e: Throwable) {
+                    failures++
+                    null
+                }
             }
-        }
+        pricing
+    }
 
     println("$failures entries failed")
-    println(pricing[0])
+    println()
     val stationPriceData = pricing
-        .groupBy { it.NearestStation }
+        .groupBy { it.nearestStationNormalized }
         .mapValues {
             it.value.groupBy { entry ->
                 "${entry.age}-${entry.size}-${entry.dist}"
@@ -108,7 +117,7 @@ fun loadPricingData(): Any {
     val refStation = stationPriceData
         .maxByOrNull { it.value.size }!!
 
-    println("Using reference station ${refStation.key}")
+    println("Using reference station '${refStation.key}'")
 
     val referenceRecords = refStation.value.mapValues {
             it.value.map { it.TradePrice }.average()
@@ -135,12 +144,12 @@ fun loadPricingData(): Any {
         }
 
     println("$failures entries couldn't be matched")
-    relativePrices
-        .toList()
-        .sortedByDescending { it.second }
-        .forEach {
-            println("${it.first}: ${it.second}")
-        }
+//    relativePrices
+//        .toList()
+//        .sortedByDescending { it.second }
+//        .forEach {
+//            println("${it.first}: ${it.second}")
+//        }
 
-    return 0
+    return relativePrices
 }

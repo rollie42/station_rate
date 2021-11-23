@@ -29,15 +29,19 @@ data class Station(
     val lon: Double,
     val name_kanji: String,
     val prefecture: String,
-    val short_code: String
+    val short_code: String?
 ) {
     val id: Int get() = ekidata_id.toInt()
 }
 
 // This is our base data; it groups stations by location, but doesn't have good translations, so needs to be enriched
 fun loadStationData(): List<StationGroup> {
+    val json = Json {
+        ignoreUnknownKeys = true
+        explicitNulls = false
+    }
     val txt = Thread.currentThread().contextClassLoader.getResource("stations.json").readText()
-    val root = Json.decodeFromString<List<StationGroup>>(txt)
-    println(root)
+    val root = json.decodeFromString<List<StationGroup>>(txt)
+    // println(root)
     return root
 }

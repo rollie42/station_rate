@@ -3,11 +3,19 @@
  */
 package station_rate
 
-import indexedBy
+import MyPlacesApi
+import com.google.maps.model.LatLng
 import kotlinx.serialization.ExperimentalSerializationApi
+import kotlinx.serialization.encodeToString
+import kotlinx.serialization.json.Json
 import station_rate.input.pricing.loadPricingData
 import station_rate.input.station.loadStationData
 import station_rate.input.stations.metadata.loadStationMetadata
+import java.io.File
+import java.text.Normalizer
+import kotlin.math.*
+
+val appStart = System.currentTimeMillis()
 
 class App {
     val greeting: String
@@ -17,18 +25,28 @@ class App {
 
     @ExperimentalSerializationApi
     fun loadInput() {
+        val searchCenter = LatLng(35.6812, 139.7671)
+        val api = MyPlacesApi()
+
+        log("Loading pricing data")
         val pricingData = loadPricingData()
-        return
-        val stationInput = loadStationData()
+
+        log("Loading station data")
+        val stationInput = loadStationData().filter { s ->
+            LatLng(s.stations[0].lat, s.stations[0].lon).distanceKm(searchCenter) < 38.0
+        }
+
+        // This is used to get english names for each station
+        log("Loading station metadata")
         val metadata = loadStationMetadata()
         val stationMetadata = metadata
             .flatMap { it.lines }
             .flatMap { it.stations }
             .distinctBy { it.id }
-            .indexedBy { it.id }
 
         val grps = stationMetadata.groupBy { it.id }
 
+        log("Constructing aggregated Station objects")
         val stations = stationInput.map {
             val s = it.stations[0]
             val station = Station(
@@ -36,27 +54,88 @@ class App {
                 s.lon
             )
             station.names += StationName(it.name_kanji, StationNameType.Kanji)
-
-            grps.getOrDefault(0, listOf())
-            grps[0].orEmpty()
             // add english names from metadata
-            (grps[0] ?: listOf())
-                //.find(s.id)
-                // .filter { it.id == s.id }
+            grps[it.group_code.toInt()].orEmpty()
                 .forEach {
-                    station.names += StationName(it.name.en, StationNameType.English)
+                    station.names += StationName(it.name.en.normalize(), StationNameType.English)
                 }
 
             // Add pricing data
-//            pricingData
-//                .filter { it.NearestStation == station.englishName }
-            
+            station.priceScore = pricingData[station.englishName]
             station
         }
-//        val ratings = stations.map { station ->
-//            return placesApi.getRestaurantScore(station)
+
+        // Use Places API to find a new English name, see if that enables us to find a matching price entry
+        log("Using Places API to try alternate English names")
+        stations
+            .filter { it.priceScore == null }
+            .forEach { s ->
+                s.names.removeIf { it.type == StationNameType.English }
+                api.getTrainStation(s.lat, s.lng).let { resp ->
+                    if (resp.results.size > 0) {
+                        val name = resp.results[0].name.normalize()
+                        s.names += StationName(name, StationNameType.English)
+                        s.priceScore = pricingData[s.englishName]
+                    } else {
+                        log("No Place found for ${s.kanjiName}-${s.lng}-${s.lat}")
+                    }
+
+                    // log("${s.kanjiName} - ${s.englishName} - ${s.priceScore}")
+                }
+            }
+
+        val validStations = stations.filter { it.priceScore != null }
+
+        // Enrich with restaurant data
+        log("Getting restaurant scores")
+        validStations.forEach { station ->
+            station.restaurantScore = api.getRestaurantScore(station)
+        }
+
+//        val noPriceDataAfterFix = stations.filter { it.priceScore == null }
+//        noPriceDataAfterFix.forEach { s ->
+//            log("${s.kanjiName} - ${s.englishName} - (${s.lat},${s.lng})")
 //        }
+
+        val output = "/tmp/station_ratings.json"
+        log ("Writing results to '$output'")
+        File(output).writeText(Json.encodeToString(validStations))
+
+        log("Done!")
     }
+}
+
+fun log(msg: String) {
+    val ts = (System.currentTimeMillis() - appStart) / 10
+    println("[${ts/100.0}s] $msg")
+}
+
+fun String.normalize(): String {
+    return Normalizer.normalize(this, Normalizer.Form.NFD)
+        .lowercase()
+        .replace("-", "")
+        .removeSuffix(" station")
+        .removeSuffix(" (tokyo)")
+        .removeSuffix(" sta.")
+        .removeSuffix(" stn.")
+        .replace("ō", "o")
+        .replace("ū", "u")
+        .trim()
+        .replace("shimbashi", "shinbashi")
+}
+
+private fun LatLng.distanceKm(searchCenter: LatLng): Double {
+    val lat1 = searchCenter.lat
+    val lon1 = searchCenter.lng
+    val lat2 = lat
+    val lon2 = lng
+
+    var p = 0.017453292519943295;    // Math.PI / 180
+    var a = 0.5 - cos((lat2 - lat1) * p)/2 +
+        cos(lat1 * p) * cos(lat2 * p) *
+        (1 - cos((lon2 - lon1) * p))/2;
+
+    return 12742 * asin(sqrt(a));
 }
 
 @ExperimentalSerializationApi
