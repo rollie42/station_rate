@@ -7,8 +7,9 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "echarts": "^5.2.2",
-    "echarts-for-react": "^3.0.2",
+    "echarts-for-react": "3.0.2",
     "normalize.css": "^8.0.1",
+    "rc-slider": "^9.7.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -28,7 +29,9 @@
     ],
     "overrides": [
       {
-        "files": ["**/*.js?(x)"],
+        "files": [
+          "**/*.js?(x)"
+        ],
         "rules": {
           "no-unused-vars": "off"
         }

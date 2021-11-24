@@ -2,10 +2,11 @@ import 'normalize.css'
 import './App.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Map from 'Map/Map'
+import MapView from 'Map/MapView'
 import FilterBar from 'Filters/FilterBar'
 import styled from 'styled-components'
 import Context from 'Context'
+import ResultsPanel from 'Map/ResultsPanel'
 
 
 const Container = styled.div`
@@ -17,7 +18,7 @@ function App() {
   return (
     <Container className="App">
       <FilterBar />
-      <Map />
+      <ResultsPanel />
     </Container>
   );
 }
