@@ -22,12 +22,10 @@ export function histogram(data) {
     const min = Math.min(...data)
     const max = Math.max(...data)
     const step = (max - min) / 20
-    console.log(min, max, step)
+    
     const bucket = el => Math.round((el - min) / step)
     const groups = groupBy(data, bucket)
-    console.log(groups)
     const ret = []
-    console.log(groups.get(0).length)
     for (let i = 0; i < bucket(max); i++){        
         ret[i] = {
             start: i * step + min,

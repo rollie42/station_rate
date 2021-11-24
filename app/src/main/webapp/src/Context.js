@@ -11,6 +11,8 @@ export default function Context({children}) {
     const [filters, setFilters] = useState({
         restaurantScore: [0, 20],
         priceScore: [0, 20],
+        isNearShinkansen: "",
+        isNearCostco: "",
     })
     
     return (

@@ -4,6 +4,8 @@
         "lng": 139.766103,
         "restaurantScore": 0.8936507936507937,
         "priceScore": 4.52530626976445,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東京",
@@ -20,6 +22,8 @@
         "lng": 139.758587,
         "restaurantScore": 0.9312169312169312,
         "priceScore": 2.942629994535759,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新橋",
@@ -36,6 +40,8 @@
         "lng": 139.738999,
         "restaurantScore": 0.7888888888888891,
         "priceScore": 2.0414295071750246,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "品川",
@@ -52,6 +58,8 @@
         "lng": 139.697485,
         "restaurantScore": 0.9118589743589745,
         "priceScore": 1.3882928563154247,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "川崎",
@@ -68,6 +76,8 @@
         "lng": 139.622704,
         "restaurantScore": 0.8869047619047619,
         "priceScore": 1.514486361163812,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "横浜",
@@ -84,6 +94,8 @@
         "lng": 139.534282,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 0.9594987719845213,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "戸塚",
@@ -100,6 +112,8 @@
         "lng": 139.728439,
         "restaurantScore": 0.5808080808080808,
         "priceScore": 2.0257563155809146,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大崎",
@@ -116,6 +130,8 @@
         "lng": 139.723822,
         "restaurantScore": 0.7579365079365079,
         "priceScore": 1.817760632940752,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "五反田",
@@ -132,6 +148,8 @@
         "lng": 139.715775,
         "restaurantScore": 0.7296296296296297,
         "priceScore": 2.193031001934231,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "目黒",
@@ -148,6 +166,8 @@
         "lng": 139.71007,
         "restaurantScore": 0.9243589743589743,
         "priceScore": 2.4785998459341543,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "恵比寿",
@@ -164,6 +184,8 @@
         "lng": 139.701238,
         "restaurantScore": 0.9409420988368357,
         "priceScore": 2.7306968971860446,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "渋谷",
@@ -180,6 +202,8 @@
         "lng": 139.702592,
         "restaurantScore": 0.9011904761904762,
         "priceScore": 3.3374631044717273,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "明治神宮前〈原宿〉",
@@ -196,6 +220,8 @@
         "lng": 139.702042,
         "restaurantScore": 0.8773148148148149,
         "priceScore": 1.8228469143023829,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "代々木",
@@ -212,6 +238,8 @@
         "lng": 139.700464,
         "restaurantScore": 0.9265873015873015,
         "priceScore": 2.1138343403478754,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新宿",
@@ -228,6 +256,8 @@
         "lng": 139.700261,
         "restaurantScore": 0.8571428571428571,
         "priceScore": 1.8048611551036826,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新大久保",
@@ -244,6 +274,8 @@
         "lng": 139.703715,
         "restaurantScore": 0.5968253968253968,
         "priceScore": 1.7195341641536992,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "高田馬場",
@@ -260,6 +292,8 @@
         "lng": 139.706228,
         "restaurantScore": 0.5962962962962962,
         "priceScore": 1.8670177676997917,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "目白",
@@ -276,6 +310,8 @@
         "lng": 139.711086,
         "restaurantScore": 0.8544973544973544,
         "priceScore": 1.757336451541221,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "池袋",
@@ -292,6 +328,8 @@
         "lng": 139.728584,
         "restaurantScore": 0.5952380952380952,
         "priceScore": 1.4536231531201667,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大塚",
@@ -308,6 +346,8 @@
         "lng": 139.739303,
         "restaurantScore": 0.5666666666666668,
         "priceScore": 1.6781954951369726,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "巣鴨",
@@ -324,6 +364,8 @@
         "lng": 139.748053,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 1.637615276165586,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "駒込",
@@ -340,6 +382,8 @@
         "lng": 139.761229,
         "restaurantScore": 0.5185185185185185,
         "priceScore": 1.4262179911243638,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "田端",
@@ -356,6 +400,8 @@
         "lng": 139.766857,
         "restaurantScore": 0.5252525252525252,
         "priceScore": 1.5090057486532877,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西日暮里",
@@ -372,6 +418,8 @@
         "lng": 139.771287,
         "restaurantScore": 0.5530303030303031,
         "priceScore": 1.6452829171994883,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "日暮里",
@@ -388,6 +436,8 @@
         "lng": 139.778015,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.337044452775105,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鶯谷",
@@ -404,6 +454,8 @@
         "lng": 139.777043,
         "restaurantScore": 0.6322751322751322,
         "priceScore": 1.6472994565565549,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上野",
@@ -420,6 +472,8 @@
         "lng": 139.774727,
         "restaurantScore": 0.7999164578111947,
         "priceScore": 1.9691830090405342,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "御徒町",
@@ -436,6 +490,8 @@
         "lng": 139.773288,
         "restaurantScore": 0.8999999999999999,
         "priceScore": 2.09806271643364,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "秋葉原",
@@ -452,6 +508,8 @@
         "lng": 139.770641,
         "restaurantScore": 0.9152292495945747,
         "priceScore": 2.2276273772168755,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "神田",
@@ -468,6 +526,8 @@
         "lng": 139.763806,
         "restaurantScore": 0.9257936507936507,
         "priceScore": 0.3786480419057121,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "有楽町",
@@ -484,6 +544,8 @@
         "lng": 139.757135,
         "restaurantScore": 0.841025641025641,
         "priceScore": 1.8157443873443155,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浜松町",
@@ -500,6 +562,8 @@
         "lng": 139.747575,
         "restaurantScore": 0.7444444444444445,
         "priceScore": 1.8453264583707383,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "田町",
@@ -516,6 +580,8 @@
         "lng": 139.684233,
         "restaurantScore": 0.2962962962962963,
         "priceScore": 1.087623208713423,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "尻手",
@@ -532,6 +598,8 @@
         "lng": 139.68055,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.180899880088299,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "矢向",
@@ -548,6 +616,8 @@
         "lng": 139.674964,
         "restaurantScore": 0.6,
         "priceScore": 1.2286754258594441,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鹿島田",
@@ -564,6 +634,8 @@
         "lng": 139.671039,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.1108865708456237,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "平間",
@@ -580,6 +652,8 @@
         "lng": 139.66725,
         "restaurantScore": 0.7222222222222223,
         "priceScore": 1.14652447163682,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "向河原",
@@ -596,6 +670,8 @@
         "lng": 139.65963,
         "restaurantScore": 0.7546296296296297,
         "priceScore": 1.573325230734049,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵小杉",
@@ -612,6 +688,8 @@
         "lng": 139.629419,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.180825702138453,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵新城",
@@ -628,6 +706,8 @@
         "lng": 139.61139,
         "restaurantScore": 0.6944444444444445,
         "priceScore": 1.5349346982577736,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "溝の口",
@@ -644,6 +724,8 @@
         "lng": 139.600002,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.0175506046232659,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "津田山",
@@ -660,6 +742,8 @@
         "lng": 139.592714,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.045406533143424,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "久地",
@@ -676,6 +760,8 @@
         "lng": 139.579565,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.9792515695750672,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宿河原",
@@ -692,6 +778,8 @@
         "lng": 139.570028,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.1620557594330525,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "登戸",
@@ -708,6 +796,8 @@
         "lng": 139.5501,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.040056836002264,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中野島",
@@ -724,6 +814,8 @@
         "lng": 139.535173,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9928887662787574,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "稲田堤",
@@ -740,6 +832,8 @@
         "lng": 139.520849,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8227842267417929,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "矢野口",
@@ -756,6 +850,8 @@
         "lng": 139.502811,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7233791495947575,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "稲城長沼",
@@ -772,6 +868,8 @@
         "lng": 139.489781,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8137318485949866,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南多摩",
@@ -788,6 +886,8 @@
         "lng": 139.468798,
         "restaurantScore": 0.5555555555555556,
         "priceScore": 1.1865729759729584,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "分倍河原",
@@ -804,6 +904,8 @@
         "lng": 139.446724,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9417845298708608,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "谷保",
@@ -820,6 +922,8 @@
         "lng": 139.431611,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9761285488329181,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "矢川",
@@ -836,6 +940,8 @@
         "lng": 139.423887,
         "restaurantScore": 0.7944444444444446,
         "priceScore": 1.0409962792576302,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西国立",
@@ -852,6 +958,8 @@
         "lng": 139.413704,
         "restaurantScore": 0.8252525252525253,
         "priceScore": 1.2400848694182725,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "立川",
@@ -868,6 +976,8 @@
         "lng": 139.691446,
         "restaurantScore": 0.5773809523809524,
         "priceScore": 1.0751119711182557,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "八丁畷",
@@ -884,6 +994,8 @@
         "lng": 139.713483,
         "restaurantScore": 0.0,
         "priceScore": 1.1508541096028755,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "浜川崎",
@@ -900,6 +1012,8 @@
         "lng": 139.457477,
         "restaurantScore": 0.0,
         "priceScore": 0.9037264245217771,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西府",
@@ -916,6 +1030,8 @@
         "lng": 139.704944,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9157894736842105,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "小田栄",
@@ -932,6 +1048,8 @@
         "lng": 139.67614,
         "restaurantScore": 0.5523809523809524,
         "priceScore": 1.130061497344341,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴見",
@@ -948,6 +1066,8 @@
         "lng": 139.675599,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 0.9018870528996773,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "国道",
@@ -964,6 +1084,8 @@
         "lng": 139.681226,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.9100491192634257,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴見小野",
@@ -980,6 +1102,8 @@
         "lng": 139.689451,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9570872104330641,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "弁天橋",
@@ -996,6 +1120,8 @@
         "lng": 139.695739,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0572993167497802,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "浅野",
@@ -1012,6 +1138,8 @@
         "lng": 139.700663,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9910975314670136,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "安善",
@@ -1028,6 +1156,8 @@
         "lng": 139.711038,
         "restaurantScore": 0.0,
         "priceScore": 1.376901970566226,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大川",
@@ -1044,6 +1174,8 @@
         "lng": 139.706513,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6318537859007832,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵白石",
@@ -1060,6 +1192,8 @@
         "lng": 139.723897,
         "restaurantScore": 0.0,
         "priceScore": 0.22746781115879827,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "昭和",
@@ -1076,6 +1210,8 @@
         "lng": 139.471792,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.1720057026111141,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北府中",
@@ -1092,6 +1228,8 @@
         "lng": 139.465994,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0473217955724987,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西国分寺",
@@ -1108,6 +1246,8 @@
         "lng": 139.470745,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7330148570622299,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新小平",
@@ -1124,6 +1264,8 @@
         "lng": 139.493592,
         "restaurantScore": 0.25,
         "priceScore": 0.7056531577622012,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新秋津",
@@ -1140,6 +1282,8 @@
         "lng": 139.513878,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.718563730580836,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東所沢",
@@ -1156,6 +1300,8 @@
         "lng": 139.556328,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7243798901383793,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新座",
@@ -1172,6 +1318,8 @@
         "lng": 139.587322,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8272667320069619,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北朝霞",
@@ -1188,6 +1336,8 @@
         "lng": 139.627707,
         "restaurantScore": 0.0,
         "priceScore": 0.7767658318283843,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西浦和",
@@ -1204,6 +1354,8 @@
         "lng": 139.669125,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.0352341318115919,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "南浦和",
@@ -1220,6 +1372,8 @@
         "lng": 139.704627,
         "restaurantScore": 0.25,
         "priceScore": 0.7305146188489985,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東浦和",
@@ -1236,6 +1390,8 @@
         "lng": 139.744087,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7684136666020156,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東川口",
@@ -1252,6 +1408,8 @@
         "lng": 139.790499,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.8538572858448621,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南越谷",
@@ -1268,6 +1426,8 @@
         "lng": 139.843162,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.6339837868345427,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "吉川",
@@ -1284,6 +1444,8 @@
         "lng": 139.820219,
         "restaurantScore": 0.5,
         "priceScore": 0.8866724685149195,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "越谷レイクタウン",
@@ -1300,6 +1462,8 @@
         "lng": 139.858167,
         "restaurantScore": 0.0,
         "priceScore": 0.7837117351567515,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "吉川美南",
@@ -1316,6 +1480,8 @@
         "lng": 139.633466,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.1808507141526028,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東神奈川",
@@ -1332,6 +1498,8 @@
         "lng": 139.646288,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.017086104439227,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大口",
@@ -1348,6 +1516,8 @@
         "lng": 139.617348,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.2485090497443943,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新横浜",
@@ -1364,6 +1534,8 @@
         "lng": 139.599787,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9137802384567444,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小机",
@@ -1380,6 +1552,8 @@
         "lng": 139.56707,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.937552628662472,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鴨居",
@@ -1396,6 +1570,8 @@
         "lng": 139.49468,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9957778103602695,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "長津田",
@@ -1412,6 +1588,8 @@
         "lng": 139.472875,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.7675334600864447,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "成瀬",
@@ -1428,6 +1606,8 @@
         "lng": 139.445579,
         "restaurantScore": 0.7916666666666666,
         "priceScore": 0.9979886705593638,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "町田",
@@ -1444,6 +1624,8 @@
         "lng": 139.419151,
         "restaurantScore": 0.25,
         "priceScore": 0.747004939188442,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "古淵",
@@ -1460,6 +1642,8 @@
         "lng": 139.395075,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.7158570645139354,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "淵野辺",
@@ -1476,6 +1660,8 @@
         "lng": 139.386373,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.6874140112798813,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "矢部",
@@ -1492,6 +1678,8 @@
         "lng": 139.371007,
         "restaurantScore": 0.5,
         "priceScore": 0.7760885789498342,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "相模原",
@@ -1508,6 +1696,8 @@
         "lng": 139.630881,
         "restaurantScore": 0.8637254901960785,
         "priceScore": 1.383747387674911,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "桜木町",
@@ -1524,6 +1714,8 @@
         "lng": 139.642934,
         "restaurantScore": 0.7261904761904763,
         "priceScore": 1.2061543470118774,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "石川町",
@@ -1540,6 +1732,8 @@
         "lng": 139.646425,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0885199590693975,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "山手",
@@ -1556,6 +1750,8 @@
         "lng": 139.617916,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.88812784114042,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "磯子",
@@ -1572,6 +1768,8 @@
         "lng": 139.619483,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.8669988060511298,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新杉田",
@@ -1588,6 +1786,8 @@
         "lng": 139.596852,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.514486361163812,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "洋光台",
@@ -1604,6 +1804,8 @@
         "lng": 139.721729,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.492144461645044,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西大井",
@@ -1620,6 +1822,8 @@
         "lng": 139.671481,
         "restaurantScore": 0.5555555555555556,
         "priceScore": 1.2468265323895578,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新川崎",
@@ -1636,6 +1840,8 @@
         "lng": 139.599671,
         "restaurantScore": 0.25,
         "priceScore": 0.8987947139064376,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "保土ケ谷",
@@ -1652,6 +1858,8 @@
         "lng": 139.556794,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0316106123343538,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東戸塚",
@@ -1668,6 +1876,8 @@
         "lng": 139.730644,
         "restaurantScore": 0.8079365079365081,
         "priceScore": 2.2762186532677386,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "四ツ谷",
@@ -1684,6 +1894,8 @@
         "lng": 139.579765,
         "restaurantScore": 0.8379629629629629,
         "priceScore": 1.8383749952452435,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "吉祥寺",
@@ -1700,6 +1912,8 @@
         "lng": 139.560325,
         "restaurantScore": 0.5277777777777778,
         "priceScore": 1.6940362579956576,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三鷹",
@@ -1716,6 +1930,8 @@
         "lng": 139.480841,
         "restaurantScore": 0.7190476190476192,
         "priceScore": 1.1623637448952442,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "国分寺",
@@ -1732,6 +1948,8 @@
         "lng": 139.39393,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.7868374427997896,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "日野",
@@ -1748,6 +1966,8 @@
         "lng": 139.381495,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.9104348202142011,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "豊田",
@@ -1764,6 +1984,8 @@
         "lng": 139.764955,
         "restaurantScore": 0.8785714285714286,
         "priceScore": 1.9711029366804036,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "御茶ノ水",
@@ -1780,6 +2002,8 @@
         "lng": 139.665835,
         "restaurantScore": 0.8134920634920636,
         "priceScore": 1.8136460891631703,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中野",
@@ -1796,6 +2020,8 @@
         "lng": 139.649664,
         "restaurantScore": 0.7936507936507938,
         "priceScore": 1.5525597381258853,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "高円寺",
@@ -1812,6 +2038,8 @@
         "lng": 139.635868,
         "restaurantScore": 0.7296296296296297,
         "priceScore": 1.6701536896561915,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "阿佐ケ谷",
@@ -1828,6 +2056,8 @@
         "lng": 139.620109,
         "restaurantScore": 0.5583333333333333,
         "priceScore": 1.6479642839504127,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荻窪",
@@ -1844,6 +2074,8 @@
         "lng": 139.599361,
         "restaurantScore": 0.7333333333333334,
         "priceScore": 1.5935420403399159,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西荻窪",
@@ -1860,6 +2092,8 @@
         "lng": 139.543402,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.2689293227218545,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "武蔵境",
@@ -1876,6 +2110,8 @@
         "lng": 139.524837,
         "restaurantScore": 0.25,
         "priceScore": 1.125990073316237,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東小金井",
@@ -1892,6 +2128,8 @@
         "lng": 139.506483,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 1.1871169551102307,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "武蔵小金井",
@@ -1908,6 +2146,8 @@
         "lng": 139.44634,
         "restaurantScore": 0.6555555555555556,
         "priceScore": 1.140589809831059,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "国立",
@@ -1924,6 +2164,8 @@
         "lng": 139.684436,
         "restaurantScore": 0.7190476190476192,
         "priceScore": 1.5833827047790145,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東中野",
@@ -1940,6 +2182,8 @@
         "lng": 139.69732,
         "restaurantScore": 0.8554720133667502,
         "priceScore": 1.6099210617174802,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大久保",
@@ -1956,6 +2200,8 @@
         "lng": 139.711644,
         "restaurantScore": 0.8613636363636363,
         "priceScore": 2.2469526822894736,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "千駄ケ谷",
@@ -1972,6 +2218,8 @@
         "lng": 139.720729,
         "restaurantScore": 0.8407407407407407,
         "priceScore": 2.1347245785881186,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "信濃町",
@@ -1988,6 +2236,8 @@
         "lng": 139.735241,
         "restaurantScore": 0.8576923076923078,
         "priceScore": 2.2222346604111913,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "市ケ谷",
@@ -2004,6 +2254,8 @@
         "lng": 139.745143,
         "restaurantScore": 0.7833333333333332,
         "priceScore": 2.0831458105403597,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "飯田橋",
@@ -2020,6 +2272,8 @@
         "lng": 139.754312,
         "restaurantScore": 0.7941176470588235,
         "priceScore": 2.079445591045816,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "水道橋",
@@ -2036,6 +2290,8 @@
         "lng": 139.784427,
         "restaurantScore": 0.7804232804232804,
         "priceScore": 1.74219206877561,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浅草橋",
@@ -2052,6 +2308,8 @@
         "lng": 139.793334,
         "restaurantScore": 0.5777777777777778,
         "priceScore": 1.3785569141205392,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "両国",
@@ -2068,6 +2326,8 @@
         "lng": 139.814136,
         "restaurantScore": 0.6155303030303031,
         "priceScore": 1.4949897476174239,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "錦糸町",
@@ -2084,6 +2344,8 @@
         "lng": 139.826262,
         "restaurantScore": 0.8169191919191919,
         "priceScore": 1.3238525896965962,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "亀戸",
@@ -2100,6 +2362,8 @@
         "lng": 139.842181,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.2026190715187546,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "平井",
@@ -2116,6 +2380,8 @@
         "lng": 139.857777,
         "restaurantScore": 0.5416666666666666,
         "priceScore": 1.2127232333559395,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新小岩",
@@ -2132,6 +2398,8 @@
         "lng": 139.881755,
         "restaurantScore": 0.5634920634920636,
         "priceScore": 1.1499254424813996,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小岩",
@@ -2148,6 +2416,8 @@
         "lng": 139.78238,
         "restaurantScore": 0.7896825396825397,
         "priceScore": 1.4985726329143245,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "馬喰町",
@@ -2164,6 +2434,8 @@
         "lng": 139.393556,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.8503114542833268,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西立川",
@@ -2180,6 +2452,8 @@
         "lng": 139.384529,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.6311738020357748,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東中神",
@@ -2196,6 +2470,8 @@
         "lng": 139.375816,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.720464265517614,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "中神",
@@ -2212,6 +2488,8 @@
         "lng": 139.361564,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7625649816054066,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "昭島",
@@ -2228,6 +2506,8 @@
         "lng": 139.363348,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6894629545645308,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "北八王子",
@@ -2244,6 +2524,8 @@
         "lng": 139.368481,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5381356499988245,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "小宮",
@@ -2260,6 +2542,8 @@
         "lng": 139.753846,
         "restaurantScore": 0.2962962962962963,
         "priceScore": 1.1859811908962705,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "尾久",
@@ -2276,6 +2560,8 @@
         "lng": 139.720928,
         "restaurantScore": 0.5714285714285715,
         "priceScore": 1.3405351076765042,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "赤羽",
@@ -2292,6 +2578,8 @@
         "lng": 139.657109,
         "restaurantScore": 0.5444444444444444,
         "priceScore": 1.2380024346832545,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浦和",
@@ -2308,6 +2596,8 @@
         "lng": 139.633587,
         "restaurantScore": 0.5583333333333333,
         "priceScore": 1.096832510004621,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "さいたま新都心",
@@ -2324,6 +2614,8 @@
         "lng": 139.63214,
         "restaurantScore": 0.0,
         "priceScore": 0.8065051994708151,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "土呂",
@@ -2340,6 +2632,8 @@
         "lng": 139.640291,
         "restaurantScore": 0.25,
         "priceScore": 0.672152695897274,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東大宮",
@@ -2356,6 +2650,8 @@
         "lng": 139.653016,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.4960502292229181,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "蓮田",
@@ -2372,6 +2668,8 @@
         "lng": 139.7994,
         "restaurantScore": 0.6,
         "priceScore": 1.2808165683876536,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "南千住",
@@ -2388,6 +2686,8 @@
         "lng": 139.804872,
         "restaurantScore": 0.7407407407407408,
         "priceScore": 1.3467205275848082,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北千住",
@@ -2404,6 +2704,8 @@
         "lng": 139.825019,
         "restaurantScore": 0.5,
         "priceScore": 1.2063730412211944,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "綾瀬",
@@ -2420,6 +2722,8 @@
         "lng": 139.847573,
         "restaurantScore": 0.6833333333333332,
         "priceScore": 1.1184602384558116,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "亀有",
@@ -2436,6 +2740,8 @@
         "lng": 139.870482,
         "restaurantScore": 0.25,
         "priceScore": 0.9865480252784868,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "金町",
@@ -2452,6 +2758,8 @@
         "lng": 139.719507,
         "restaurantScore": 0.5444444444444444,
         "priceScore": 1.3073970111415347,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "板橋",
@@ -2468,6 +2776,8 @@
         "lng": 139.722233,
         "restaurantScore": 0.4696969696969697,
         "priceScore": 1.3390889619578974,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "十条",
@@ -2484,6 +2794,8 @@
         "lng": 139.70569,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0965753895077206,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北赤羽",
@@ -2500,6 +2812,8 @@
         "lng": 139.691341,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.1432553741976277,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浮間舟渡",
@@ -2516,6 +2830,8 @@
         "lng": 139.678203,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.0656617539940823,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "戸田公園",
@@ -2532,6 +2848,8 @@
         "lng": 139.6375,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9511279611834408,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中浦和",
@@ -2548,6 +2866,8 @@
         "lng": 139.631117,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8439331015151025,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "南与野",
@@ -2564,6 +2884,8 @@
         "lng": 139.628521,
         "restaurantScore": 0.507936507936508,
         "priceScore": 0.9989985249072647,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北与野",
@@ -2580,6 +2902,8 @@
         "lng": 139.564951,
         "restaurantScore": 0.0,
         "priceScore": 0.5203434509639155,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "指扇",
@@ -2596,6 +2920,8 @@
         "lng": 139.519082,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5153540834932349,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "南古谷",
@@ -2612,6 +2938,8 @@
         "lng": 139.483078,
         "restaurantScore": 0.5,
         "priceScore": 0.7667809081322254,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "川越",
@@ -2628,6 +2956,8 @@
         "lng": 139.609455,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.6942761221972772,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宮原",
@@ -2644,6 +2974,8 @@
         "lng": 139.588434,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.6552281949318279,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上尾",
@@ -2660,6 +2992,8 @@
         "lng": 139.577223,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.5758574841246531,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北上尾",
@@ -2676,6 +3010,8 @@
         "lng": 139.777705,
         "restaurantScore": 0.7944444444444444,
         "priceScore": 1.6500238929330806,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "八丁堀",
@@ -2692,6 +3028,8 @@
         "lng": 139.792713,
         "restaurantScore": 0.6805555555555557,
         "priceScore": 1.5228709365893425,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "越中島",
@@ -2708,6 +3046,8 @@
         "lng": 139.817341,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.218463551900767,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "潮見",
@@ -2724,6 +3064,8 @@
         "lng": 139.827402,
         "restaurantScore": 0.0,
         "priceScore": 3.162026238929017,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新木場",
@@ -2740,6 +3082,8 @@
         "lng": 139.861529,
         "restaurantScore": 0.0,
         "priceScore": 1.5270793385951549,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "葛西臨海公園",
@@ -2756,6 +3100,8 @@
         "lng": 139.883714,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.4277384804825013,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "舞浜",
@@ -2772,6 +3118,8 @@
         "lng": 140.012825,
         "restaurantScore": 0.0,
         "priceScore": 2.942629994535759,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新習志野",
@@ -2788,6 +3136,8 @@
         "lng": 140.077959,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8102916523193574,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "湖北",
@@ -2804,6 +3154,8 @@
         "lng": 139.639085,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.9585169225170556,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "与野",
@@ -2820,6 +3172,8 @@
         "lng": 139.645951,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.0801800453642494,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北浦和",
@@ -2836,6 +3190,8 @@
         "lng": 139.690357,
         "restaurantScore": 0.6666666666666666,
         "priceScore": 0.9883625277087437,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "蕨",
@@ -2852,6 +3208,8 @@
         "lng": 139.704312,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 0.9409370204050488,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西川口",
@@ -2868,6 +3226,8 @@
         "lng": 139.717472,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.1337255776447608,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "川口",
@@ -2884,6 +3244,8 @@
         "lng": 139.726858,
         "restaurantScore": 0.4666666666666666,
         "priceScore": 1.2383718198048665,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東十条",
@@ -2900,6 +3262,8 @@
         "lng": 139.73809,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.4252168325500807,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "王子",
@@ -2916,6 +3280,8 @@
         "lng": 139.73485,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.6147709632437246,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大井町",
@@ -2932,6 +3298,8 @@
         "lng": 139.728079,
         "restaurantScore": 0.6188034188034188,
         "priceScore": 1.5396366414569176,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大森",
@@ -2948,6 +3316,8 @@
         "lng": 139.716032,
         "restaurantScore": 0.6107226107226107,
         "priceScore": 1.4639049909510864,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "蒲田",
@@ -2964,6 +3334,8 @@
         "lng": 139.654776,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0100140929631265,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新子安",
@@ -2980,6 +3352,8 @@
         "lng": 139.716749,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.3999451451779563,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北池袋",
@@ -2996,6 +3370,8 @@
         "lng": 139.714785,
         "restaurantScore": 0.5634920634920636,
         "priceScore": 1.3804863574994473,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "下板橋",
@@ -3012,6 +3388,8 @@
         "lng": 139.702589,
         "restaurantScore": 0.562962962962963,
         "priceScore": 1.3788769570200543,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大山",
@@ -3028,6 +3406,8 @@
         "lng": 139.694628,
         "restaurantScore": 0.5773809523809524,
         "priceScore": 1.3181404576265858,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中板橋",
@@ -3044,6 +3424,8 @@
         "lng": 139.689015,
         "restaurantScore": 0.5277777777777778,
         "priceScore": 1.318218898148815,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "ときわ台",
@@ -3060,6 +3442,8 @@
         "lng": 139.67641,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.1671643483643597,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上板橋",
@@ -3076,6 +3460,8 @@
         "lng": 139.661964,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.1918094831500103,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東武練馬",
@@ -3092,6 +3478,8 @@
         "lng": 139.644482,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.15119702673153,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "地下鉄赤塚",
@@ -3108,6 +3496,8 @@
         "lng": 139.632708,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.0959675770487223,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "地下鉄成増",
@@ -3124,6 +3514,8 @@
         "lng": 139.612434,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0646535398891965,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "和光市",
@@ -3140,6 +3532,8 @@
         "lng": 139.600321,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.9462334848190243,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "朝霞",
@@ -3156,6 +3550,8 @@
         "lng": 139.575367,
         "restaurantScore": 0.5,
         "priceScore": 0.9325667088211422,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "志木",
@@ -3172,6 +3568,8 @@
         "lng": 139.562071,
         "restaurantScore": 0.0,
         "priceScore": 0.7835325182634021,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "柳瀬川",
@@ -3188,6 +3586,8 @@
         "lng": 139.55078,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 0.7686550838453046,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "みずほ台",
@@ -3204,6 +3604,8 @@
         "lng": 139.539347,
         "restaurantScore": 0.0,
         "priceScore": 0.7062932150663731,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鶴瀬",
@@ -3220,6 +3622,8 @@
         "lng": 139.523389,
         "restaurantScore": 0.25,
         "priceScore": 0.8047296818230648,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "ふじみ野",
@@ -3236,6 +3640,8 @@
         "lng": 139.511782,
         "restaurantScore": 0.513888888888889,
         "priceScore": 0.659147831007238,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上福岡",
@@ -3252,6 +3658,8 @@
         "lng": 139.497257,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5129680067076003,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新河岸",
@@ -3268,6 +3676,8 @@
         "lng": 139.476989,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 0.8193770457995982,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "川越市",
@@ -3284,6 +3694,8 @@
         "lng": 139.809332,
         "restaurantScore": 0.5777777777777778,
         "priceScore": 1.320711766032416,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "とうきょうスカイツリー",
@@ -3300,6 +3712,8 @@
         "lng": 139.816634,
         "restaurantScore": 0.7666666666666666,
         "priceScore": 1.1948946171982509,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "曳舟",
@@ -3316,6 +3730,8 @@
         "lng": 139.819306,
         "restaurantScore": 0.75,
         "priceScore": 1.1545912583869327,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東向島",
@@ -3332,6 +3748,8 @@
         "lng": 139.820344,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.1496478115486053,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鐘ヶ淵",
@@ -3348,6 +3766,8 @@
         "lng": 139.817727,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.5916750081417042,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "堀切",
@@ -3364,6 +3784,8 @@
         "lng": 139.811816,
         "restaurantScore": 0.7000000000000001,
         "priceScore": 0.9873280363940905,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "牛田",
@@ -3380,6 +3802,8 @@
         "lng": 139.812935,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.9317817260388274,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小菅",
@@ -3396,6 +3820,8 @@
         "lng": 139.809643,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.9718048313277563,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "五反野",
@@ -3412,6 +3838,8 @@
         "lng": 139.797916,
         "restaurantScore": 0.4583333333333333,
         "priceScore": 0.9975497630861195,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "梅島",
@@ -3428,6 +3856,8 @@
         "lng": 139.790372,
         "restaurantScore": 0.4666666666666666,
         "priceScore": 1.051750473244148,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西新井",
@@ -3444,6 +3874,8 @@
         "lng": 139.790788,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.0153990469798708,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "竹ノ塚",
@@ -3460,6 +3892,8 @@
         "lng": 139.801483,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7179750365132013,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "谷塚",
@@ -3476,6 +3910,8 @@
         "lng": 139.803397,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 0.7763066492409026,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "草加",
@@ -3492,6 +3928,8 @@
         "lng": 139.791686,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.6369987123119459,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "蒲生",
@@ -3508,6 +3946,8 @@
         "lng": 139.786213,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.7029060718600594,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "越谷",
@@ -3524,6 +3964,8 @@
         "lng": 139.780008,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.6126607985518229,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "北越谷",
@@ -3540,6 +3982,8 @@
         "lng": 139.777868,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5071830883988757,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大袋",
@@ -3556,6 +4000,8 @@
         "lng": 139.774478,
         "restaurantScore": 0.25,
         "priceScore": 0.556813181477897,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "せんげん台",
@@ -3572,6 +4018,8 @@
         "lng": 139.770675,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 0.46945145491511536,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "武里",
@@ -3588,6 +4036,8 @@
         "lng": 139.766219,
         "restaurantScore": 0.25,
         "priceScore": 0.4090406098839036,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "一ノ割",
@@ -3604,6 +4054,8 @@
         "lng": 139.752345,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.6055533257374959,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "春日部",
@@ -3620,6 +4072,8 @@
         "lng": 139.744012,
         "restaurantScore": 0.0,
         "priceScore": 0.45665039068248164,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北春日部",
@@ -3636,6 +4090,8 @@
         "lng": 139.738674,
         "restaurantScore": 0.0,
         "priceScore": 0.27906171364122606,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "姫宮",
@@ -3652,6 +4108,8 @@
         "lng": 139.624726,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.7357734490462117,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "北大宮",
@@ -3668,6 +4126,8 @@
         "lng": 139.632903,
         "restaurantScore": 0.0,
         "priceScore": 0.9231256833421271,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大宮公園",
@@ -3684,6 +4144,8 @@
         "lng": 139.665948,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.48123562095932443,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "七里",
@@ -3700,6 +4162,8 @@
         "lng": 139.693197,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5541794442816923,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "岩槻",
@@ -3716,6 +4180,8 @@
         "lng": 139.712192,
         "restaurantScore": 0.0,
         "priceScore": 0.4811220443652713,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東岩槻",
@@ -3732,6 +4198,8 @@
         "lng": 139.72601,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.39576226908068396,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "豊春",
@@ -3748,6 +4216,8 @@
         "lng": 139.741785,
         "restaurantScore": 0.25,
         "priceScore": 0.5281918523180239,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "八木崎",
@@ -3764,6 +4234,8 @@
         "lng": 139.778038,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.3893701780718213,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "藤の牛島",
@@ -3780,6 +4252,8 @@
         "lng": 139.827595,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.0929012420751385,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小村井",
@@ -3796,6 +4270,8 @@
         "lng": 139.831883,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.042994200295761,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東あずま",
@@ -3812,6 +4288,8 @@
         "lng": 139.833422,
         "restaurantScore": 0.6851851851851851,
         "priceScore": 1.0603950540585512,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "亀戸水神",
@@ -3828,6 +4306,8 @@
         "lng": 139.781647,
         "restaurantScore": 0.4583333333333333,
         "priceScore": 0.9259856244578688,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大師前",
@@ -3844,6 +4324,8 @@
         "lng": 139.694363,
         "restaurantScore": 0.5462962962962963,
         "priceScore": 1.3090186540853699,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "椎名町",
@@ -3860,6 +4342,8 @@
         "lng": 139.683294,
         "restaurantScore": 0.507936507936508,
         "priceScore": 1.2533981513231383,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東長崎",
@@ -3876,6 +4360,8 @@
         "lng": 139.672814,
         "restaurantScore": 0.5,
         "priceScore": 1.1691996574021375,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "江古田",
@@ -3892,6 +4378,8 @@
         "lng": 139.662602,
         "restaurantScore": 0.5583333333333333,
         "priceScore": 1.100314997936458,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "桜台",
@@ -3908,6 +4396,8 @@
         "lng": 139.654368,
         "restaurantScore": 0.5714285714285715,
         "priceScore": 1.3556027949576326,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "練馬",
@@ -3924,6 +4414,8 @@
         "lng": 139.637456,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2475240713011295,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中村橋",
@@ -3940,6 +4432,8 @@
         "lng": 139.62969,
         "restaurantScore": 0.25,
         "priceScore": 1.1818546477044571,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "富士見台",
@@ -3956,6 +4450,8 @@
         "lng": 139.616749,
         "restaurantScore": 0.25,
         "priceScore": 1.1417017906186273,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "練馬高野台",
@@ -3972,6 +4468,8 @@
         "lng": 139.606981,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 1.2540851683170202,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "石神井公園",
@@ -3988,6 +4486,8 @@
         "lng": 139.586732,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.1122908851009872,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大泉学園",
@@ -4004,6 +4504,8 @@
         "lng": 139.567753,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 2.2762186532677386,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "保谷",
@@ -4020,6 +4522,8 @@
         "lng": 139.545852,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.8983928452419251,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "ひばりヶ丘",
@@ -4036,6 +4540,8 @@
         "lng": 139.533739,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.8294816787815127,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東久留米",
@@ -4052,6 +4558,8 @@
         "lng": 139.519917,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.747823645498431,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "清瀬",
@@ -4068,6 +4576,8 @@
         "lng": 139.496539,
         "restaurantScore": 0.25,
         "priceScore": 0.630016444066957,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "秋津",
@@ -4084,6 +4594,8 @@
         "lng": 139.455959,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.648452034911636,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西所沢",
@@ -4100,6 +4612,8 @@
         "lng": 139.438016,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 0.6958165228777634,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "小手指",
@@ -4116,6 +4630,8 @@
         "lng": 139.416975,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.5192256930650191,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "狭山ヶ丘",
@@ -4132,6 +4648,8 @@
         "lng": 139.412736,
         "restaurantScore": 0.0,
         "priceScore": 0.5723425841873953,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵藤沢",
@@ -4148,6 +4666,8 @@
         "lng": 139.39842,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.5492848928010363,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "稲荷山公園",
@@ -4164,6 +4684,8 @@
         "lng": 139.473324,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.8724488663760754,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "所沢",
@@ -4180,6 +4702,8 @@
         "lng": 139.6683,
         "restaurantScore": 0.5,
         "priceScore": 1.12469542195697,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新桜台",
@@ -4196,6 +4720,8 @@
         "lng": 139.441097,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.45535554251311683,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "下山口",
@@ -4212,6 +4738,8 @@
         "lng": 139.41966,
         "restaurantScore": 0.0,
         "priceScore": 0.4010499583704889,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西武球場前",
@@ -4228,6 +4756,8 @@
         "lng": 139.695391,
         "restaurantScore": 0.5912698412698413,
         "priceScore": 1.3146862844257567,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "下落合",
@@ -4244,6 +4774,8 @@
         "lng": 139.686967,
         "restaurantScore": 0.5185185185185185,
         "priceScore": 1.310979736055791,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中井",
@@ -4260,6 +4792,8 @@
         "lng": 139.672582,
         "restaurantScore": 0.691919191919192,
         "priceScore": 1.5287535501532334,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新井薬師前",
@@ -4276,6 +4810,8 @@
         "lng": 139.663841,
         "restaurantScore": 0.5,
         "priceScore": 1.3326068265932935,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "沼袋",
@@ -4292,6 +4828,8 @@
         "lng": 139.652733,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.3251060396157226,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "野方",
@@ -4308,6 +4846,8 @@
         "lng": 139.644839,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.2490948756796463,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "都立家政",
@@ -4324,6 +4864,8 @@
         "lng": 139.63892,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.3411322196040516,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鷺ノ宮",
@@ -4340,6 +4882,8 @@
         "lng": 139.624688,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2077143956856637,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "下井草",
@@ -4356,6 +4900,8 @@
         "lng": 139.615303,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2395365800165226,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "井荻",
@@ -4372,6 +4918,8 @@
         "lng": 139.602937,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.240034932177762,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上井草",
@@ -4388,6 +4936,8 @@
         "lng": 139.592266,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.194866249554063,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上石神井",
@@ -4404,6 +4954,8 @@
         "lng": 139.576417,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.1791000958670805,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "武蔵関",
@@ -4420,6 +4972,8 @@
         "lng": 139.563529,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.9842121503388059,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東伏見",
@@ -4436,6 +4990,8 @@
         "lng": 139.552477,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.964971723519484,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西武柳沢",
@@ -4452,6 +5008,8 @@
         "lng": 139.539259,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.0627612788560874,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "田無",
@@ -4468,6 +5026,8 @@
         "lng": 139.513228,
         "restaurantScore": 0.5,
         "priceScore": 0.902806112940452,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "花小金井",
@@ -4484,6 +5044,8 @@
         "lng": 139.488491,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.7799903397402694,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小平",
@@ -4500,6 +5062,8 @@
         "lng": 139.472653,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 0.7281423862295684,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "久米川",
@@ -4516,6 +5080,8 @@
         "lng": 139.465839,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.7351994861792952,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東村山",
@@ -4532,6 +5098,8 @@
         "lng": 139.465641,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.749528803449626,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "航空公園",
@@ -4548,6 +5116,8 @@
         "lng": 139.427304,
         "restaurantScore": 0.0,
         "priceScore": 0.4459375284342148,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "入曽",
@@ -4564,6 +5134,8 @@
         "lng": 139.413015,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.5496820228506544,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "狭山市",
@@ -4580,6 +5152,8 @@
         "lng": 139.433499,
         "restaurantScore": 0.0,
         "priceScore": 0.4942457639684291,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新狭山",
@@ -4596,6 +5170,8 @@
         "lng": 139.454189,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5026725360743408,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南大塚",
@@ -4612,6 +5188,8 @@
         "lng": 139.481125,
         "restaurantScore": 0.5333333333333333,
         "priceScore": 0.8300928623269407,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "本川越",
@@ -4628,6 +5206,8 @@
         "lng": 139.476903,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 0.6433134537860564,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "萩山",
@@ -4644,6 +5224,8 @@
         "lng": 139.463493,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8005212757582281,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "小川",
@@ -4660,6 +5242,8 @@
         "lng": 139.434249,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 0.7513216295436692,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東大和市",
@@ -4676,6 +5260,8 @@
         "lng": 139.418435,
         "restaurantScore": 0.0,
         "priceScore": 0.741849272229722,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "玉川上水",
@@ -4692,6 +5278,8 @@
         "lng": 139.392319,
         "restaurantScore": 0.0,
         "priceScore": 0.6433575095134672,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵砂川",
@@ -4708,6 +5296,8 @@
         "lng": 139.370124,
         "restaurantScore": 0.0,
         "priceScore": 0.6999396200045493,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西武立川",
@@ -4724,6 +5314,8 @@
         "lng": 139.448904,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.4523546666036402,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西武園",
@@ -4740,6 +5332,8 @@
         "lng": 139.463944,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8983087951741361,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "恋ヶ窪",
@@ -4756,6 +5350,8 @@
         "lng": 139.461155,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6828001273339759,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鷹の台",
@@ -4772,6 +5368,8 @@
         "lng": 139.480039,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.8519534652450772,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "一橋学園",
@@ -4788,6 +5386,8 @@
         "lng": 139.467676,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 0.6758349429242015,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "八坂",
@@ -4804,6 +5404,8 @@
         "lng": 139.444008,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5291814973042369,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵大和",
@@ -4820,6 +5422,8 @@
         "lng": 139.526603,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9342881222058431,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新小金井",
@@ -4836,6 +5440,8 @@
         "lng": 139.51713,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8467700695274829,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "多磨",
@@ -4852,6 +5458,8 @@
         "lng": 139.509862,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9531980778082637,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "白糸台",
@@ -4868,6 +5476,8 @@
         "lng": 139.499721,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6103564218816535,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "競艇場前",
@@ -4884,6 +5494,8 @@
         "lng": 139.488592,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.7722685986380037,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "是政",
@@ -4900,6 +5512,8 @@
         "lng": 139.781499,
         "restaurantScore": 0.5,
         "priceScore": 1.2357086922338683,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "町屋",
@@ -4916,6 +5530,8 @@
         "lng": 139.796934,
         "restaurantScore": 0.7380952380952381,
         "priceScore": 1.1733503529531077,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "千住大橋",
@@ -4932,6 +5548,8 @@
         "lng": 139.827545,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.047320126662466,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "堀切菖蒲園",
@@ -4948,6 +5566,8 @@
         "lng": 139.83988,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.0557270076057517,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "お花茶屋",
@@ -4964,6 +5584,8 @@
         "lng": 139.856292,
         "restaurantScore": 0.4666666666666666,
         "priceScore": 1.082607267487548,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "青砥",
@@ -4980,6 +5602,8 @@
         "lng": 139.896226,
         "restaurantScore": 0.25,
         "priceScore": 0.9395263881538484,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "江戸川",
@@ -4996,6 +5620,8 @@
         "lng": 139.937932,
         "restaurantScore": 0.507936507936508,
         "priceScore": 0.19431860027203304,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鬼越",
@@ -5012,6 +5638,8 @@
         "lng": 139.828738,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.10584684491462,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "八広",
@@ -5028,6 +5656,8 @@
         "lng": 139.834918,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.046680821576973,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "四ツ木",
@@ -5044,6 +5674,8 @@
         "lng": 139.875188,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.9065525677621009,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "柴又",
@@ -5060,6 +5692,8 @@
         "lng": 139.686354,
         "restaurantScore": 0.5814814814814815,
         "priceScore": 1.6554663416557884,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "初台",
@@ -5076,6 +5710,8 @@
         "lng": 139.676183,
         "restaurantScore": 0.5523809523809524,
         "priceScore": 1.6510153922862685,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "幡ヶ谷",
@@ -5092,6 +5728,8 @@
         "lng": 139.667251,
         "restaurantScore": 0.7243589743589745,
         "priceScore": 1.4920628297685665,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "笹塚",
@@ -5108,6 +5746,8 @@
         "lng": 139.659413,
         "restaurantScore": 0.46296296296296297,
         "priceScore": 1.4563703816877624,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "代田橋",
@@ -5124,6 +5764,8 @@
         "lng": 139.650352,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.509470671649006,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "明大前",
@@ -5140,6 +5782,8 @@
         "lng": 139.641372,
         "restaurantScore": 0.6746031746031745,
         "priceScore": 1.3770821780334577,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "下高井戸",
@@ -5156,6 +5800,8 @@
         "lng": 139.63129,
         "restaurantScore": 0.513888888888889,
         "priceScore": 1.3218278006318707,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "桜上水",
@@ -5172,6 +5818,8 @@
         "lng": 139.62329,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.388065163501171,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上北沢",
@@ -5188,6 +5836,8 @@
         "lng": 139.614927,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.3194605248308773,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "八幡山",
@@ -5204,6 +5854,8 @@
         "lng": 139.608247,
         "restaurantScore": 0.5,
         "priceScore": 1.3026156164407605,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "芦花公園",
@@ -5220,6 +5872,8 @@
         "lng": 139.60067,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.3867595302402855,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "千歳烏山",
@@ -5236,6 +5890,8 @@
         "lng": 139.584908,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.272183857493572,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "仙川",
@@ -5252,6 +5908,8 @@
         "lng": 139.575103,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.0835512247172971,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "つつじヶ丘",
@@ -5268,6 +5926,8 @@
         "lng": 139.56658,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.0874261658995987,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "柴崎",
@@ -5284,6 +5944,8 @@
         "lng": 139.558036,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.2756748436057137,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "国領",
@@ -5300,6 +5962,8 @@
         "lng": 139.551557,
         "restaurantScore": 0.5773809523809524,
         "priceScore": 1.2033812716521783,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "布田",
@@ -5316,6 +5980,8 @@
         "lng": 139.543988,
         "restaurantScore": 0.7301587301587302,
         "priceScore": 1.331987894340309,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "調布",
@@ -5332,6 +5998,8 @@
         "lng": 139.529822,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9732777000920098,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西調布",
@@ -5348,6 +6016,8 @@
         "lng": 139.523666,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.6472994565565549,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "飛田給",
@@ -5364,6 +6034,8 @@
         "lng": 139.511289,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.1662851712476072,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "武蔵野台",
@@ -5380,6 +6052,8 @@
         "lng": 139.502615,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8276593115105099,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "多磨霊園",
@@ -5396,6 +6070,8 @@
         "lng": 139.495257,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0376980268456546,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東府中",
@@ -5412,6 +6088,8 @@
         "lng": 139.4799,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.2155844481418359,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "府中",
@@ -5428,6 +6106,8 @@
         "lng": 139.457602,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.8818714453374057,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "中河原",
@@ -5444,6 +6124,8 @@
         "lng": 139.446979,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8883687023762384,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "聖蹟桜ヶ丘",
@@ -5460,6 +6142,8 @@
         "lng": 139.431285,
         "restaurantScore": 0.0,
         "priceScore": 0.6825440354840263,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "百草園",
@@ -5476,6 +6160,8 @@
         "lng": 139.412953,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.7610614532138272,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "高幡不動",
@@ -5492,6 +6178,8 @@
         "lng": 139.392008,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5892127477652818,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南平",
@@ -5508,6 +6196,8 @@
         "lng": 139.379926,
         "restaurantScore": 0.0,
         "priceScore": 0.4843075590629403,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "平山城址公園",
@@ -5524,6 +6214,8 @@
         "lng": 139.365849,
         "restaurantScore": 0.0,
         "priceScore": 0.47854029287583727,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "長沼",
@@ -5540,6 +6232,8 @@
         "lng": 139.354489,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6657302622354648,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "北野",
@@ -5556,6 +6250,8 @@
         "lng": 139.536606,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.9572479247455141,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "京王多摩川",
@@ -5572,6 +6268,8 @@
         "lng": 139.531099,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9862757502311086,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "京王稲田堤",
@@ -5588,6 +6286,8 @@
         "lng": 139.500398,
         "restaurantScore": 0.0,
         "priceScore": 0.8486289152085501,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "稲城",
@@ -5604,6 +6304,8 @@
         "lng": 139.472189,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9955309271881,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "若葉台",
@@ -5620,6 +6322,8 @@
         "lng": 139.448204,
         "restaurantScore": 0.0,
         "priceScore": 0.9743283736014524,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "京王永山",
@@ -5636,6 +6340,8 @@
         "lng": 139.400314,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9365968998309073,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "京王堀之内",
@@ -5652,6 +6358,8 @@
         "lng": 139.3798,
         "restaurantScore": 0.0,
         "priceScore": 0.8538948160416862,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南大沢",
@@ -5668,6 +6376,8 @@
         "lng": 139.366987,
         "restaurantScore": 0.0,
         "priceScore": 0.7870238637126566,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "多摩境",
@@ -5684,6 +6394,8 @@
         "lng": 139.485019,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.168988995636559,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "府中競馬正門前",
@@ -5700,6 +6412,8 @@
         "lng": 139.693579,
         "restaurantScore": 0.9192810457516339,
         "priceScore": 2.0176362698935595,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "神泉",
@@ -5716,6 +6430,8 @@
         "lng": 139.684308,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 2.064123335820254,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "駒場東大前",
@@ -5732,6 +6448,8 @@
         "lng": 139.67344,
         "restaurantScore": 0.8042328042328043,
         "priceScore": 1.8808378242453714,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "池ノ上",
@@ -5748,6 +6466,8 @@
         "lng": 139.66691,
         "restaurantScore": 0.8000000000000002,
         "priceScore": 2.01231385052167,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "下北沢",
@@ -5764,6 +6484,8 @@
         "lng": 139.660524,
         "restaurantScore": 0.8079365079365081,
         "priceScore": 1.2808036357356334,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新代田",
@@ -5780,6 +6502,8 @@
         "lng": 139.655535,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.5079544631288355,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東松原",
@@ -5796,6 +6520,8 @@
         "lng": 139.642733,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.4104580331657883,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "永福町",
@@ -5812,6 +6538,8 @@
         "lng": 139.634936,
         "restaurantScore": 0.6833333333333332,
         "priceScore": 1.4494887872740458,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西永福",
@@ -5828,6 +6556,8 @@
         "lng": 139.627528,
         "restaurantScore": 0.5555555555555556,
         "priceScore": 1.5689310886636936,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浜田山",
@@ -5844,6 +6574,8 @@
         "lng": 139.615115,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.4137394816811344,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "高井戸",
@@ -5860,6 +6592,8 @@
         "lng": 139.607072,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.3911330477856925,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "富士見ヶ丘",
@@ -5876,6 +6610,8 @@
         "lng": 139.599211,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.4283153819091934,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "久我山",
@@ -5892,6 +6628,8 @@
         "lng": 139.589298,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.6940362579956576,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三鷹台",
@@ -5908,6 +6646,8 @@
         "lng": 139.583112,
         "restaurantScore": 0.85,
         "priceScore": 1.4217694764740083,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "井の頭公園",
@@ -5924,6 +6664,8 @@
         "lng": 139.69867,
         "restaurantScore": 0.9015873015873016,
         "priceScore": 1.6675953674736783,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "南新宿",
@@ -5940,6 +6682,8 @@
         "lng": 139.693568,
         "restaurantScore": 0.7634920634920634,
         "priceScore": 1.9698971773067695,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "参宮橋",
@@ -5956,6 +6700,8 @@
         "lng": 139.688913,
         "restaurantScore": 0.7579365079365079,
         "priceScore": 2.1529228735938695,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "代々木八幡",
@@ -5972,6 +6718,8 @@
         "lng": 139.680153,
         "restaurantScore": 0.7388888888888889,
         "priceScore": 2.220420655311475,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "代々木上原",
@@ -5988,6 +6736,8 @@
         "lng": 139.673014,
         "restaurantScore": 0.7805555555555556,
         "priceScore": 1.6905092215056394,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東北沢",
@@ -6004,6 +6754,8 @@
         "lng": 139.661557,
         "restaurantScore": 0.7554112554112554,
         "priceScore": 1.5538190774862415,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "世田谷代田",
@@ -6020,6 +6772,8 @@
         "lng": 139.653628,
         "restaurantScore": 0.6666666666666666,
         "priceScore": 1.6072535131595278,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "梅ヶ丘",
@@ -6036,6 +6790,8 @@
         "lng": 139.647381,
         "restaurantScore": 0.6746031746031745,
         "priceScore": 1.5333413810093366,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "豪徳寺",
@@ -6052,6 +6808,8 @@
         "lng": 139.635993,
         "restaurantScore": 0.7023809523809524,
         "priceScore": 1.6806931602499702,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "経堂",
@@ -6068,6 +6826,8 @@
         "lng": 139.624544,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.6899863428385768,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "千歳船橋",
@@ -6084,6 +6844,8 @@
         "lng": 139.609659,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.5427026422398007,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "祖師ヶ谷大蔵",
@@ -6100,6 +6862,8 @@
         "lng": 139.598958,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.696695597668799,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "成城学園前",
@@ -6116,6 +6880,8 @@
         "lng": 139.587445,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.1354083414897873,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "喜多見",
@@ -6132,6 +6898,8 @@
         "lng": 139.577127,
         "restaurantScore": 0.5,
         "priceScore": 1.1674731219018233,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "狛江",
@@ -6148,6 +6916,8 @@
         "lng": 139.573695,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.9282225030255031,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "和泉多摩川",
@@ -6164,6 +6934,8 @@
         "lng": 139.564719,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.0368595334606552,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "向ヶ丘遊園",
@@ -6180,6 +6952,8 @@
         "lng": 139.516121,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.8357947290865617,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "百合ヶ丘",
@@ -6196,6 +6970,8 @@
         "lng": 139.507608,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.1237983226896178,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新百合ヶ丘",
@@ -6212,6 +6988,8 @@
         "lng": 139.497614,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8181641372332263,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "柿生",
@@ -6228,6 +7006,8 @@
         "lng": 139.481759,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7553545652290438,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴川",
@@ -6244,6 +7024,8 @@
         "lng": 139.437836,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.9742404035101911,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "相模大野",
@@ -6260,6 +7042,8 @@
         "lng": 139.438883,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 0.7414174985684421,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東林間",
@@ -6276,6 +7060,8 @@
         "lng": 139.444105,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.8904668593030448,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "中央林間",
@@ -6292,6 +7078,8 @@
         "lng": 139.447911,
         "restaurantScore": 0.562962962962963,
         "priceScore": 0.7151085459806034,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南林間",
@@ -6308,6 +7096,8 @@
         "lng": 139.450572,
         "restaurantScore": 0.562962962962963,
         "priceScore": 0.699412772934402,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴間",
@@ -6324,6 +7114,8 @@
         "lng": 139.465734,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5896503554918451,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "桜ヶ丘",
@@ -6340,6 +7132,8 @@
         "lng": 139.493542,
         "restaurantScore": 0.0,
         "priceScore": 0.854155502970609,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "五月台",
@@ -6356,6 +7150,8 @@
         "lng": 139.481298,
         "restaurantScore": 0.0,
         "priceScore": 0.7732485880179033,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "栗平",
@@ -6372,6 +7168,8 @@
         "lng": 139.464534,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8603756308940719,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "はるひ野",
@@ -6388,6 +7186,8 @@
         "lng": 139.411622,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8271879633482688,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "唐木田",
@@ -6404,6 +7204,8 @@
         "lng": 139.703284,
         "restaurantScore": 0.9223113487819369,
         "priceScore": 2.5591985125265646,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "代官山",
@@ -6420,6 +7222,8 @@
         "lng": 139.698621,
         "restaurantScore": 0.8796296296296297,
         "priceScore": 2.3238944519833407,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "中目黒",
@@ -6436,6 +7240,8 @@
         "lng": 139.690758,
         "restaurantScore": 0.7722222222222223,
         "priceScore": 1.8603530875879428,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "祐天寺",
@@ -6452,6 +7258,8 @@
         "lng": 139.68522,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 2.132421350977578,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "学芸大学",
@@ -6468,6 +7276,8 @@
         "lng": 139.676393,
         "restaurantScore": 0.6944444444444445,
         "priceScore": 1.9047862744238562,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "都立大学",
@@ -6484,6 +7294,8 @@
         "lng": 139.668664,
         "restaurantScore": 0.7301587301587302,
         "priceScore": 2.44017968008931,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "自由が丘",
@@ -6500,6 +7312,8 @@
         "lng": 139.667356,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.770572313246292,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "田園調布",
@@ -6516,6 +7330,8 @@
         "lng": 139.668723,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.81744020298938,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "多摩川",
@@ -6532,6 +7348,8 @@
         "lng": 139.661964,
         "restaurantScore": 0.7407407407407408,
         "priceScore": 1.2310735191984805,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新丸子",
@@ -6548,6 +7366,8 @@
         "lng": 139.654668,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.4084065467285003,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "元住吉",
@@ -6564,6 +7384,8 @@
         "lng": 139.63491,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 1.2675917723274244,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "綱島",
@@ -6580,6 +7402,8 @@
         "lng": 139.633194,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0115968360837913,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "妙蓮寺",
@@ -6596,6 +7420,8 @@
         "lng": 139.627875,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.9774484558822025,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "白楽",
@@ -6612,6 +7438,8 @@
         "lng": 139.629364,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 0.9218521466770146,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東白楽",
@@ -6628,6 +7456,8 @@
         "lng": 139.704524,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.8538303596870152,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵小山",
@@ -6644,6 +7474,8 @@
         "lng": 139.698694,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.8125858944384847,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西小山",
@@ -6660,6 +7492,8 @@
         "lng": 139.694367,
         "restaurantScore": 0.5333333333333333,
         "priceScore": 1.6438074039458517,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "洗足",
@@ -6676,6 +7510,8 @@
         "lng": 139.685909,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.5772474235151415,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大岡山",
@@ -6692,6 +7528,8 @@
         "lng": 139.672355,
         "restaurantScore": 0.7361111111111112,
         "priceScore": 1.7965358561993339,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "奥沢",
@@ -6708,6 +7546,8 @@
         "lng": 139.684319,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 1.8791812888854467,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "池尻大橋",
@@ -6724,6 +7564,8 @@
         "lng": 139.670156,
         "restaurantScore": 0.8023809523809525,
         "priceScore": 1.8624091571536134,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三軒茶屋",
@@ -6740,6 +7582,8 @@
         "lng": 139.661702,
         "restaurantScore": 0.7388888888888889,
         "priceScore": 1.8932277563927065,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "駒沢大学",
@@ -6756,6 +7600,8 @@
         "lng": 139.644779,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.963871011314242,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "桜新町",
@@ -6772,6 +7618,8 @@
         "lng": 139.633928,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.8224548885614964,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "用賀",
@@ -6788,6 +7636,8 @@
         "lng": 139.626685,
         "restaurantScore": 0.7023809523809524,
         "priceScore": 2.0722366280600735,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "二子玉川",
@@ -6804,6 +7654,8 @@
         "lng": 139.622338,
         "restaurantScore": 0.7380952380952381,
         "priceScore": 1.2847334884239032,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "二子新地",
@@ -6820,6 +7672,8 @@
         "lng": 139.605885,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.1390629443792863,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "梶が谷",
@@ -6836,6 +7690,8 @@
         "lng": 139.591313,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2215208530806505,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宮崎台",
@@ -6852,6 +7708,8 @@
         "lng": 139.581983,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.1352019965341964,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宮前平",
@@ -6868,6 +7726,8 @@
         "lng": 139.573268,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.2860533004868262,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鷺沼",
@@ -6884,6 +7744,8 @@
         "lng": 139.558447,
         "restaurantScore": 0.5277777777777778,
         "priceScore": 1.356607385983678,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "たまプラーザ",
@@ -6900,6 +7762,8 @@
         "lng": 139.553462,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.462794706448379,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "あざみ野",
@@ -6916,6 +7780,8 @@
         "lng": 139.541496,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 1.077524256755807,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "市が尾",
@@ -6932,6 +7798,8 @@
         "lng": 139.517376,
         "restaurantScore": 0.6666666666666666,
         "priceScore": 1.210170653069146,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "青葉台",
@@ -6948,6 +7816,8 @@
         "lng": 139.504855,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.9243764758766413,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "田奈",
@@ -6964,6 +7834,8 @@
         "lng": 139.485139,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7815179146816255,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "つくし野",
@@ -6980,6 +7852,8 @@
         "lng": 139.481684,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7969613210362133,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "すずかけ台",
@@ -6996,6 +7870,8 @@
         "lng": 139.458651,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.8018363659052592,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "つきみ野",
@@ -7012,6 +7888,8 @@
         "lng": 139.718159,
         "restaurantScore": 0.25,
         "priceScore": 1.4266952926050616,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "戸越公園",
@@ -7028,6 +7906,8 @@
         "lng": 139.712526,
         "restaurantScore": 0.25,
         "priceScore": 1.403681419393735,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "中延",
@@ -7044,6 +7924,8 @@
         "lng": 139.707571,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.5730884588015563,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "荏原町",
@@ -7060,6 +7942,8 @@
         "lng": 139.702286,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.4145252661980738,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "旗の台",
@@ -7076,6 +7960,8 @@
         "lng": 139.693303,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.3504444771388242,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "北千束",
@@ -7092,6 +7978,8 @@
         "lng": 139.679482,
         "restaurantScore": 0.5523809523809524,
         "priceScore": 1.7951500639862437,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "緑が丘",
@@ -7108,6 +7996,8 @@
         "lng": 139.653862,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.8232299923183144,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "尾山台",
@@ -7124,6 +8014,8 @@
         "lng": 139.647938,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.8221933240850996,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "等々力",
@@ -7140,6 +8032,8 @@
         "lng": 139.638917,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.6344017274330178,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上野毛",
@@ -7156,6 +8050,8 @@
         "lng": 139.722339,
         "restaurantScore": 0.5912698412698413,
         "priceScore": 1.5561917167940469,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大崎広小路",
@@ -7172,6 +8068,8 @@
         "lng": 139.714862,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.4586153748010326,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "戸越銀座",
@@ -7188,6 +8086,8 @@
         "lng": 139.712196,
         "restaurantScore": 0.25,
         "priceScore": 1.4997274643234786,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "荏原中延",
@@ -7204,6 +8104,8 @@
         "lng": 139.697881,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.571227591329886,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "長原",
@@ -7220,6 +8122,8 @@
         "lng": 139.690896,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.4171725658676717,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "洗足池",
@@ -7236,6 +8140,8 @@
         "lng": 139.685063,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 1.4338099847939278,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "石川台",
@@ -7252,6 +8158,8 @@
         "lng": 139.681083,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.4082889519725572,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "雪が谷大塚",
@@ -7268,6 +8176,8 @@
         "lng": 139.682473,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.4565405800918778,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "御嶽山",
@@ -7284,6 +8194,8 @@
         "lng": 139.685678,
         "restaurantScore": 0.4523809523809524,
         "priceScore": 1.323385666340705,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "久が原",
@@ -7300,6 +8212,8 @@
         "lng": 139.69142,
         "restaurantScore": 0.2962962962962963,
         "priceScore": 1.3272453995042248,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "千鳥町",
@@ -7316,6 +8230,8 @@
         "lng": 139.702822,
         "restaurantScore": 0.47222222222222215,
         "priceScore": 1.4728056353296137,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "池上",
@@ -7332,6 +8248,8 @@
         "lng": 139.708544,
         "restaurantScore": 0.5993265993265994,
         "priceScore": 1.2442019174280536,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "蓮沼",
@@ -7348,6 +8266,8 @@
         "lng": 139.67326,
         "restaurantScore": 0.4523809523809524,
         "priceScore": 1.3914609214477773,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "沼部",
@@ -7364,6 +8284,8 @@
         "lng": 139.680554,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.2850085380025777,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鵜の木",
@@ -7380,6 +8302,8 @@
         "lng": 139.685576,
         "restaurantScore": 0.2962962962962963,
         "priceScore": 1.4054186774651274,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "下丸子",
@@ -7396,6 +8320,8 @@
         "lng": 139.692506,
         "restaurantScore": 0.3055555555555555,
         "priceScore": 1.3454044548263357,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "武蔵新田",
@@ -7412,6 +8338,8 @@
         "lng": 139.700389,
         "restaurantScore": 0.3,
         "priceScore": 1.3529785680411786,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "矢口渡",
@@ -7428,6 +8356,8 @@
         "lng": 139.666382,
         "restaurantScore": 0.8134920634920636,
         "priceScore": 1.5990918588859768,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西太子堂",
@@ -7444,6 +8374,8 @@
         "lng": 139.659911,
         "restaurantScore": 0.7936507936507938,
         "priceScore": 1.6655925326462695,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "若林",
@@ -7460,6 +8392,8 @@
         "lng": 139.655211,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.714063271319723,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "松陰神社前",
@@ -7476,6 +8410,8 @@
         "lng": 139.650945,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.6260478961064095,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "世田谷",
@@ -7492,6 +8428,8 @@
         "lng": 139.646276,
         "restaurantScore": 0.5,
         "priceScore": 1.589717563062035,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上町",
@@ -7508,6 +8446,8 @@
         "lng": 139.64494,
         "restaurantScore": 0.5722222222222223,
         "priceScore": 1.5299165930596876,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宮の坂",
@@ -7524,6 +8464,8 @@
         "lng": 139.642,
         "restaurantScore": 0.6851851851851851,
         "priceScore": 1.511621433994963,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "松原",
@@ -7540,6 +8482,8 @@
         "lng": 139.492127,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8530144397641707,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "恩田",
@@ -7556,6 +8500,8 @@
         "lng": 139.74002,
         "restaurantScore": 0.5444444444444444,
         "priceScore": 1.730843751145108,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "泉岳寺",
@@ -7572,6 +8518,8 @@
         "lng": 139.739191,
         "restaurantScore": 0.8030303030303031,
         "priceScore": 1.7672228123759592,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "北品川",
@@ -7588,6 +8536,8 @@
         "lng": 139.742958,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.499565773616445,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "青物横丁",
@@ -7604,6 +8554,8 @@
         "lng": 139.742227,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.6105957544820777,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鮫洲",
@@ -7620,6 +8572,8 @@
         "lng": 139.738886,
         "restaurantScore": 0.507936507936508,
         "priceScore": 1.2400848694182725,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "立会川",
@@ -7636,6 +8590,8 @@
         "lng": 139.73544,
         "restaurantScore": 0.6085858585858586,
         "priceScore": 1.2004226384004397,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大森海岸",
@@ -7652,6 +8608,8 @@
         "lng": 139.73491,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.3145560737150255,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "平和島",
@@ -7668,6 +8626,8 @@
         "lng": 139.732027,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.2376199922459292,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大森町",
@@ -7684,6 +8644,8 @@
         "lng": 139.728266,
         "restaurantScore": 0.5357142857142857,
         "priceScore": 1.3397486796551568,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "梅屋敷",
@@ -7700,6 +8662,8 @@
         "lng": 139.723681,
         "restaurantScore": 0.8055555555555557,
         "priceScore": 1.4458924985092734,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "京急蒲田",
@@ -7716,6 +8680,8 @@
         "lng": 139.715005,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 1.3628937738585822,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "雑色",
@@ -7732,6 +8698,8 @@
         "lng": 139.7076,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2714957646480807,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "六郷土手",
@@ -7748,6 +8716,8 @@
         "lng": 139.700893,
         "restaurantScore": 0.9045177045177045,
         "priceScore": 1.0710973621583926,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "京急川崎",
@@ -7764,6 +8734,8 @@
         "lng": 139.68642,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.0427564933470923,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴見市場",
@@ -7780,6 +8752,8 @@
         "lng": 139.6673,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.922094729686831,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "生麦",
@@ -7796,6 +8770,8 @@
         "lng": 139.644965,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.9669283922451569,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "子安",
@@ -7812,6 +8788,8 @@
         "lng": 139.627364,
         "restaurantScore": 0.861904761904762,
         "priceScore": 1.1612741719371695,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "神奈川",
@@ -7828,6 +8806,8 @@
         "lng": 139.61956,
         "restaurantScore": 0.725,
         "priceScore": 1.030467264645197,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "戸部",
@@ -7844,6 +8824,8 @@
         "lng": 139.626696,
         "restaurantScore": 0.8725071225071225,
         "priceScore": 1.0848861350998018,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "日ノ出町",
@@ -7860,6 +8842,8 @@
         "lng": 139.62246,
         "restaurantScore": 0.6091269841269841,
         "priceScore": 0.9285305571568069,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "黄金町",
@@ -7876,6 +8860,8 @@
         "lng": 139.613408,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 0.7677047515378725,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南太田",
@@ -7892,6 +8878,8 @@
         "lng": 139.60061,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.845083140713838,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "井土ヶ谷",
@@ -7908,6 +8896,8 @@
         "lng": 139.596552,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.9628761343434123,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "上大岡",
@@ -7924,6 +8914,8 @@
         "lng": 139.610387,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7338117431455425,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "屏風浦",
@@ -7940,6 +8932,8 @@
         "lng": 139.629772,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7853670848194234,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "京急富岡",
@@ -7956,6 +8950,8 @@
         "lng": 139.629233,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9398522673217701,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "能見台",
@@ -7972,6 +8968,8 @@
         "lng": 139.72962,
         "restaurantScore": 0.5277777777777778,
         "priceScore": 1.3616687871483988,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "糀谷",
@@ -7988,6 +8986,8 @@
         "lng": 139.739356,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.3881753875146268,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "大鳥居",
@@ -8004,6 +9004,8 @@
         "lng": 139.746669,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.2031132472020516,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "穴守稲荷",
@@ -8020,6 +9022,8 @@
         "lng": 139.75423,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0723454429200563,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "天空橋",
@@ -8036,6 +9040,8 @@
         "lng": 139.712578,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 0.9502439911489436,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "港町",
@@ -8052,6 +9058,8 @@
         "lng": 139.720655,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.1300874774111287,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鈴木町",
@@ -8068,6 +9076,8 @@
         "lng": 139.725946,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.98546223721348,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "川崎大師",
@@ -8084,6 +9094,8 @@
         "lng": 139.734298,
         "restaurantScore": 0.0,
         "priceScore": 1.0416957601451444,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "東門前",
@@ -8100,6 +9112,8 @@
         "lng": 139.747575,
         "restaurantScore": 0.0,
         "priceScore": 1.1461138233628896,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "小島新田",
@@ -8116,6 +9130,8 @@
         "lng": 139.782593,
         "restaurantScore": 0.6204906204906204,
         "priceScore": 1.7774216250884578,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "稲荷町",
@@ -8132,6 +9148,8 @@
         "lng": 139.773516,
         "restaurantScore": 0.9063492063492063,
         "priceScore": 2.2712954044135096,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "日本橋",
@@ -8148,6 +9166,8 @@
         "lng": 139.770126,
         "restaurantScore": 0.9126984126984127,
         "priceScore": 3.6771193346668514,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "京橋",
@@ -8164,6 +9184,8 @@
         "lng": 139.763965,
         "restaurantScore": 0.9265873015873015,
         "priceScore": 4.25670626039058,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "銀座",
@@ -8180,6 +9202,8 @@
         "lng": 139.749832,
         "restaurantScore": 0.9354864433811801,
         "priceScore": 2.513547782562149,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "虎ノ門",
@@ -8196,6 +9220,8 @@
         "lng": 139.724159,
         "restaurantScore": 0.7888888888888889,
         "priceScore": 1.9886605250320541,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "青山一丁目",
@@ -8212,6 +9238,8 @@
         "lng": 139.712314,
         "restaurantScore": 0.9252525252525251,
         "priceScore": 3.0856579476569848,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "表参道",
@@ -8228,6 +9256,8 @@
         "lng": 139.729971,
         "restaurantScore": 0.5555555555555555,
         "priceScore": 1.4100633058845167,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新大塚",
@@ -8244,6 +9274,8 @@
         "lng": 139.751864,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.6477354512254885,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "後楽園",
@@ -8260,6 +9292,8 @@
         "lng": 139.759914,
         "restaurantScore": 0.8317460317460318,
         "priceScore": 1.9030980334210508,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "本郷三丁目",
@@ -8276,6 +9310,8 @@
         "lng": 139.767575,
         "restaurantScore": 0.8944444444444445,
         "priceScore": 2.183365577771262,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "淡路町",
@@ -8292,6 +9328,8 @@
         "lng": 139.7662,
         "restaurantScore": 0.9062049062049061,
         "priceScore": 2.176942463141834,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大手町",
@@ -8308,6 +9346,8 @@
         "lng": 139.720103,
         "restaurantScore": 0.8416666666666667,
         "priceScore": 1.8559776824003937,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "四谷三丁目",
@@ -8324,6 +9364,8 @@
         "lng": 139.704895,
         "restaurantScore": 0.9186507936507936,
         "priceScore": 1.6289643848755109,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新宿三丁目",
@@ -8340,6 +9382,8 @@
         "lng": 139.656498,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.354486017133661,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "方南町",
@@ -8356,6 +9400,8 @@
         "lng": 139.791485,
         "restaurantScore": 0.6111111111111112,
         "priceScore": 1.3199088708209687,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三ノ輪",
@@ -8372,6 +9418,8 @@
         "lng": 139.783924,
         "restaurantScore": 0.810966810966811,
         "priceScore": 1.3552170181691285,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "入谷",
@@ -8388,6 +9436,8 @@
         "lng": 139.782285,
         "restaurantScore": 0.7698412698412698,
         "priceScore": 1.6973625524512528,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "人形町",
@@ -8404,6 +9454,8 @@
         "lng": 139.780005,
         "restaurantScore": 0.6203703703703703,
         "priceScore": 1.6696365257735204,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "茅場町",
@@ -8420,6 +9472,8 @@
         "lng": 139.772603,
         "restaurantScore": 0.8435672514619883,
         "priceScore": 1.735757292730604,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "築地",
@@ -8436,6 +9490,8 @@
         "lng": 139.76017,
         "restaurantScore": 0.9265873015873015,
         "priceScore": 3.1995874478960693,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "日比谷",
@@ -8452,6 +9508,8 @@
         "lng": 139.745069,
         "restaurantScore": 0.9169000933706816,
         "priceScore": 2.4934389005231767,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "神谷町",
@@ -8468,6 +9526,8 @@
         "lng": 139.731443,
         "restaurantScore": 0.9059065934065934,
         "priceScore": 2.460273608985595,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "六本木",
@@ -8484,6 +9544,8 @@
         "lng": 139.722202,
         "restaurantScore": 0.8630952380952381,
         "priceScore": 2.9247496454552584,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "広尾",
@@ -8500,6 +9562,8 @@
         "lng": 139.687284,
         "restaurantScore": 0.5523809523809524,
         "priceScore": 1.4077333685766478,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "落合",
@@ -8516,6 +9580,8 @@
         "lng": 139.734546,
         "restaurantScore": 0.75,
         "priceScore": 1.7689495391367172,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "神楽坂",
@@ -8532,6 +9598,8 @@
         "lng": 139.751948,
         "restaurantScore": 0.7824561403508773,
         "priceScore": 1.8658118193138178,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "九段下",
@@ -8548,6 +9616,8 @@
         "lng": 139.807042,
         "restaurantScore": 0.5499999999999999,
         "priceScore": 1.4806595823834543,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "木場",
@@ -8564,6 +9634,8 @@
         "lng": 139.817596,
         "restaurantScore": 0.4666666666666666,
         "priceScore": 1.4285476225309925,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東陽町",
@@ -8580,6 +9652,8 @@
         "lng": 139.859259,
         "restaurantScore": 0.7261904761904763,
         "priceScore": 1.4466609378491078,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西葛西",
@@ -8596,6 +9670,8 @@
         "lng": 139.872458,
         "restaurantScore": 0.7363636363636363,
         "priceScore": 1.34447462245035,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "葛西",
@@ -8612,6 +9688,8 @@
         "lng": 139.765655,
         "restaurantScore": 0.5694444444444445,
         "priceScore": 1.5490367782257441,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "根津",
@@ -8628,6 +9706,8 @@
         "lng": 139.769916,
         "restaurantScore": 0.6322751322751322,
         "priceScore": 1.6152782396636367,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "湯島",
@@ -8644,6 +9724,8 @@
         "lng": 139.738348,
         "restaurantScore": 0.8915032679738563,
         "priceScore": 2.313175802265262,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "赤坂",
@@ -8660,6 +9742,8 @@
         "lng": 139.726215,
         "restaurantScore": 0.8868589743589744,
         "priceScore": 2.1089795634935666,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "乃木坂",
@@ -8676,6 +9760,8 @@
         "lng": 139.653762,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.2327804294760192,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "平和台",
@@ -8692,6 +9778,8 @@
         "lng": 139.72754,
         "restaurantScore": 0.4666666666666666,
         "priceScore": 1.4071908159028261,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "護国寺",
@@ -8708,6 +9796,8 @@
         "lng": 139.737613,
         "restaurantScore": 0.8215811965811967,
         "priceScore": 1.7796673140765,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "麹町",
@@ -8724,6 +9814,8 @@
         "lng": 139.767045,
         "restaurantScore": 0.9198412698412698,
         "priceScore": 3.008823703298117,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "銀座一丁目",
@@ -8740,6 +9832,8 @@
         "lng": 139.784233,
         "restaurantScore": 0.5696969696969697,
         "priceScore": 1.8692098933072867,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "月島",
@@ -8756,6 +9850,8 @@
         "lng": 139.79621,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.6809410765848685,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "豊洲",
@@ -8772,6 +9868,8 @@
         "lng": 139.81052,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.2942650488304017,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "辰巳",
@@ -8788,6 +9886,8 @@
         "lng": 139.74163,
         "restaurantScore": 0.7554112554112554,
         "priceScore": 2.1634230279407127,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "半蔵門",
@@ -8804,6 +9904,8 @@
         "lng": 139.815681,
         "restaurantScore": 0.5972222222222222,
         "priceScore": 1.4196174728977737,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "住吉",
@@ -8820,6 +9922,8 @@
         "lng": 139.732599,
         "restaurantScore": 0.5,
         "priceScore": 1.213678913299315,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "志茂",
@@ -8836,6 +9940,8 @@
         "lng": 139.742322,
         "restaurantScore": 0.28571428571428575,
         "priceScore": 1.2708425782383719,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西ケ原",
@@ -8852,6 +9958,8 @@
         "lng": 139.753828,
         "restaurantScore": 0.4583333333333333,
         "priceScore": 1.637615276165586,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "本駒込",
@@ -8868,6 +9976,8 @@
         "lng": 139.739,
         "restaurantScore": 0.9191176470588235,
         "priceScore": 2.152873855599553,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "六本木一丁目",
@@ -8884,6 +9994,8 @@
         "lng": 139.737051,
         "restaurantScore": 0.8915343915343916,
         "priceScore": 2.4246456587083745,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "麻布十番",
@@ -8900,6 +10012,8 @@
         "lng": 139.726133,
         "restaurantScore": 0.6944444444444445,
         "priceScore": 2.2653471779270093,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "白金台",
@@ -8916,6 +10030,8 @@
         "lng": 139.608745,
         "restaurantScore": 0.4523809523809524,
         "priceScore": 0.9306235104516485,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "西横浜",
@@ -8932,6 +10048,8 @@
         "lng": 139.602554,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 0.9473679186335309,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "天王町",
@@ -8948,6 +10066,8 @@
         "lng": 139.586786,
         "restaurantScore": 0.25,
         "priceScore": 0.8070839992618202,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "和田町",
@@ -8964,6 +10084,8 @@
         "lng": 139.580078,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7633191131235446,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "上星川",
@@ -8980,6 +10102,8 @@
         "lng": 139.565721,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7285709598889442,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西谷",
@@ -8996,6 +10120,8 @@
         "lng": 139.549586,
         "restaurantScore": 0.0,
         "priceScore": 0.7355392935729088,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鶴ヶ峰",
@@ -9012,6 +10138,8 @@
         "lng": 139.532207,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.8202705479218626,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "二俣川",
@@ -9028,6 +10156,8 @@
         "lng": 139.5143,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.7369550121336824,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "希望ヶ丘",
@@ -9044,6 +10174,8 @@
         "lng": 139.502662,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.7413691029856047,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "三ツ境",
@@ -9060,6 +10192,8 @@
         "lng": 139.482574,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.6981687478230192,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "瀬谷",
@@ -9076,6 +10210,8 @@
         "lng": 139.441232,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5612342795916434,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "相模大塚",
@@ -9092,6 +10228,8 @@
         "lng": 139.526344,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7570314550243578,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "南万騎が原",
@@ -9108,6 +10246,8 @@
         "lng": 139.521841,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7497022243595368,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "緑園都市",
@@ -9124,6 +10264,8 @@
         "lng": 139.506615,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7699888377570099,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "弥生台",
@@ -9140,6 +10282,8 @@
         "lng": 139.495135,
         "restaurantScore": 0.0,
         "priceScore": 0.7002427759893628,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "いずみ野",
@@ -9156,6 +10300,8 @@
         "lng": 139.75325,
         "restaurantScore": 0.5946969696969697,
         "priceScore": 1.7405901944346118,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "春日",
@@ -9172,6 +10318,8 @@
         "lng": 139.781958,
         "restaurantScore": 0.623015873015873,
         "priceScore": 1.4773898445305496,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新御徒町",
@@ -9188,6 +10336,8 @@
         "lng": 139.790931,
         "restaurantScore": 0.7841269841269841,
         "priceScore": 1.4624249291146352,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "蔵前",
@@ -9204,6 +10354,8 @@
         "lng": 139.797042,
         "restaurantScore": 0.6388888888888888,
         "priceScore": 1.422469406160529,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "森下",
@@ -9220,6 +10372,8 @@
         "lng": 139.776442,
         "restaurantScore": 0.5444444444444444,
         "priceScore": 1.6860719308867949,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "勝どき",
@@ -9236,6 +10390,8 @@
         "lng": 139.760642,
         "restaurantScore": 0.9304232804232804,
         "priceScore": 2.2110242519495826,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "汐留",
@@ -9252,6 +10408,8 @@
         "lng": 139.75466,
         "restaurantScore": 0.9063180827886711,
         "priceScore": 2.351167223058083,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "大門",
@@ -9268,6 +10426,8 @@
         "lng": 139.684304,
         "restaurantScore": 0.5347222222222222,
         "priceScore": 1.4366638779030385,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西新宿五丁目",
@@ -9284,6 +10444,8 @@
         "lng": 139.628603,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.2267456855118752,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "光が丘",
@@ -9300,6 +10462,8 @@
         "lng": 139.711772,
         "restaurantScore": 0.25,
         "priceScore": 1.3516831684146913,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "馬込",
@@ -9316,6 +10480,8 @@
         "lng": 139.748775,
         "restaurantScore": 0.7720588235294118,
         "priceScore": 1.7760438618194678,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三田",
@@ -9332,6 +10498,8 @@
         "lng": 139.749824,
         "restaurantScore": 0.8396825396825397,
         "priceScore": 1.6078705273794889,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "芝公園",
@@ -9348,6 +10516,8 @@
         "lng": 139.752136,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.512455741730945,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "白山",
@@ -9364,6 +10534,8 @@
         "lng": 139.744792,
         "restaurantScore": 0.47222222222222227,
         "priceScore": 1.6378770621210983,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "千石",
@@ -9380,6 +10552,8 @@
         "lng": 139.720101,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 2.942629994535759,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新板橋",
@@ -9396,6 +10570,8 @@
         "lng": 139.685937,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 1.2247494202561984,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "志村三丁目",
@@ -9412,6 +10588,8 @@
         "lng": 139.673971,
         "restaurantScore": 0.25,
         "priceScore": 1.110457836751326,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西台",
@@ -9428,6 +10606,8 @@
         "lng": 139.788154,
         "restaurantScore": 0.7277777777777779,
         "priceScore": 1.5215636122157017,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浜町",
@@ -9444,6 +10624,8 @@
         "lng": 139.864258,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.201717479157694,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "船堀",
@@ -9460,6 +10642,8 @@
         "lng": 139.89761,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 1.170486169185821,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "瑞江",
@@ -9476,6 +10660,8 @@
         "lng": 139.903698,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.0954059518316668,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "篠崎",
@@ -9492,6 +10678,8 @@
         "lng": 139.791412,
         "restaurantScore": 0.5555555555555556,
         "priceScore": 1.0785315528792345,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "三ノ輪橋",
@@ -9508,6 +10696,8 @@
         "lng": 139.788988,
         "restaurantScore": 0.6746031746031745,
         "priceScore": 1.057783776926378,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川一中前",
@@ -9524,6 +10714,8 @@
         "lng": 139.786456,
         "restaurantScore": 0.6666666666666666,
         "priceScore": 1.0994914030285472,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川区役所前",
@@ -9540,6 +10732,8 @@
         "lng": 139.784696,
         "restaurantScore": 0.6944444444444445,
         "priceScore": 1.2354611414628898,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川二丁目",
@@ -9556,6 +10750,8 @@
         "lng": 139.78417,
         "restaurantScore": 0.5,
         "priceScore": 0.796167602741715,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川七丁目",
@@ -9572,6 +10768,8 @@
         "lng": 139.776625,
         "restaurantScore": 0.4523809523809524,
         "priceScore": 1.2149842797274633,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "町屋二丁目",
@@ -9588,6 +10786,8 @@
         "lng": 139.769204,
         "restaurantScore": 0.2916666666666667,
         "priceScore": 1.1618169738441766,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "熊野前",
@@ -9604,6 +10804,8 @@
         "lng": 139.764955,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.5299165930596876,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "宮ノ前",
@@ -9620,6 +10822,8 @@
         "lng": 139.761779,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.9856277760290861,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "小台",
@@ -9636,6 +10840,8 @@
         "lng": 139.757767,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.1132813190215385,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川遊園地前",
@@ -9652,6 +10858,8 @@
         "lng": 139.752617,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.0267558297024841,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "荒川車庫前",
@@ -9668,6 +10876,8 @@
         "lng": 139.747403,
         "restaurantScore": 0.2777777777777778,
         "priceScore": 1.0354869290445867,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "梶原",
@@ -9684,6 +10894,8 @@
         "lng": 139.742124,
         "restaurantScore": 0.4444444444444445,
         "priceScore": 1.219291516262472,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "栄町",
@@ -9700,6 +10912,8 @@
         "lng": 139.737382,
         "restaurantScore": 0.25,
         "priceScore": 1.3813136238223258,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "飛鳥山",
@@ -9716,6 +10930,8 @@
         "lng": 139.732779,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.136029530499645,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西ヶ原四丁目",
@@ -9732,6 +10948,8 @@
         "lng": 139.730451,
         "restaurantScore": 0.5444444444444444,
         "priceScore": 0.877215610183265,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新庚申塚",
@@ -9748,6 +10966,8 @@
         "lng": 139.729743,
         "restaurantScore": 0.5583333333333333,
         "priceScore": 2.1724221700213584,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "庚申塚",
@@ -9764,6 +10984,8 @@
         "lng": 139.727769,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.0520334565436973,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "巣鴨新田",
@@ -9780,6 +11002,8 @@
         "lng": 139.724894,
         "restaurantScore": 0.5952380952380952,
         "priceScore": 0.8151400581178296,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "向原",
@@ -9796,6 +11020,8 @@
         "lng": 139.718006,
         "restaurantScore": 0.782051282051282,
         "priceScore": 1.7811206864667668,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "都電雑司ヶ谷",
@@ -9812,6 +11038,8 @@
         "lng": 139.71247,
         "restaurantScore": 0.6053921568627451,
         "priceScore": 1.883186030743482,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "学習院下",
@@ -9828,6 +11056,8 @@
         "lng": 139.714444,
         "restaurantScore": 0.5888888888888889,
         "priceScore": 1.4121667621527119,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "面影橋",
@@ -9844,6 +11074,8 @@
         "lng": 139.730043,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.9017681310537188,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "川口元郷",
@@ -9860,6 +11092,8 @@
         "lng": 139.735967,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7117013890407059,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鳩ヶ谷",
@@ -9876,6 +11110,8 @@
         "lng": 139.737908,
         "restaurantScore": 0.0,
         "priceScore": 2.1138343403478754,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新井宿",
@@ -9892,6 +11128,8 @@
         "lng": 139.753689,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.6048821771217663,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "戸塚安行",
@@ -9908,6 +11146,8 @@
         "lng": 139.72779,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7834879120781586,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "浦和美園",
@@ -9924,6 +11164,8 @@
         "lng": 139.82038,
         "restaurantScore": 0.25,
         "priceScore": 0.9137978558137335,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "青井",
@@ -9940,6 +11182,8 @@
         "lng": 139.821816,
         "restaurantScore": 0.0,
         "priceScore": 0.9169972399501752,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "六町",
@@ -9956,6 +11200,8 @@
         "lng": 139.845017,
         "restaurantScore": 0.0,
         "priceScore": 0.7140810721858251,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "八潮",
@@ -9972,6 +11218,8 @@
         "lng": 139.878344,
         "restaurantScore": 0.0,
         "priceScore": 0.6936660931682437,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "三郷中央",
@@ -9988,6 +11236,8 @@
         "lng": 139.626499,
         "restaurantScore": 0.875462962962963,
         "priceScore": 1.874594280054496,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "新高島",
@@ -10004,6 +11254,8 @@
         "lng": 139.632386,
         "restaurantScore": 0.7936507936507938,
         "priceScore": 1.7774946041070356,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "みなとみらい",
@@ -10020,6 +11272,8 @@
         "lng": 139.636175,
         "restaurantScore": 0.8743386243386243,
         "priceScore": 1.3760676540946846,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "馬車道",
@@ -10036,6 +11290,8 @@
         "lng": 139.642608,
         "restaurantScore": 0.7569444444444445,
         "priceScore": 1.2818532570072938,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "日本大通り",
@@ -10052,6 +11308,8 @@
         "lng": 139.762037,
         "restaurantScore": 0.7474747474747475,
         "priceScore": 0.9952895731481527,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "竹芝",
@@ -10068,6 +11326,8 @@
         "lng": 139.75906,
         "restaurantScore": 0.7706552706552706,
         "priceScore": 1.5572283804295013,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "日の出",
@@ -10084,6 +11344,8 @@
         "lng": 139.757852,
         "restaurantScore": 0.48888888888888893,
         "priceScore": 1.4020668429567165,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "芝浦ふ頭",
@@ -10100,6 +11362,8 @@
         "lng": 139.778607,
         "restaurantScore": 0.5833333333333334,
         "priceScore": 1.710378473689607,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "お台場海浜公園",
@@ -10116,6 +11380,8 @@
         "lng": 139.793269,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.1997831967337673,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "有明",
@@ -10132,6 +11398,8 @@
         "lng": 139.789996,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.7998216501732331,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新豊洲",
@@ -10148,6 +11416,8 @@
         "lng": 139.589715,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.1740235062090931,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "仲町台",
@@ -10164,6 +11434,8 @@
         "lng": 139.623548,
         "restaurantScore": 0.82991452991453,
         "priceScore": 1.0744025842143923,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "高島町",
@@ -10180,6 +11452,8 @@
         "lng": 139.618455,
         "restaurantScore": 0.5777777777777778,
         "priceScore": 0.9210321918008896,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "吉野町",
@@ -10196,6 +11470,8 @@
         "lng": 139.559389,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7527550373429536,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "下永谷",
@@ -10212,6 +11488,8 @@
         "lng": 139.551509,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.7805864745289555,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "舞岡",
@@ -10228,6 +11506,8 @@
         "lng": 139.641704,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 1.3070314572461452,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "鳥浜",
@@ -10244,6 +11524,8 @@
         "lng": 139.642743,
         "restaurantScore": 0.22222222222222224,
         "priceScore": 0.699443263117195,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "並木北",
@@ -10260,6 +11542,8 @@
         "lng": 139.642945,
         "restaurantScore": 0.0,
         "priceScore": 0.7737456287051659,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "並木中央",
@@ -10276,6 +11560,8 @@
         "lng": 139.643706,
         "restaurantScore": 0.0,
         "priceScore": 0.7453510940296578,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "幸浦",
@@ -10292,6 +11578,8 @@
         "lng": 139.617796,
         "restaurantScore": 0.5166666666666667,
         "priceScore": 0.8493133681546476,
+        "isNearShinkansen": true,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "鉄道博物館",
@@ -10308,6 +11596,8 @@
         "lng": 139.616688,
         "restaurantScore": 0.26666666666666666,
         "priceScore": 0.6444174808740661,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "加茂宮",
@@ -10324,6 +11614,8 @@
         "lng": 139.618054,
         "restaurantScore": 0.25,
         "priceScore": 0.6933927306235577,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東宮原",
@@ -10340,6 +11632,8 @@
         "lng": 139.620862,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.5716240150269577,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "吉野原",
@@ -10356,6 +11650,8 @@
         "lng": 139.622531,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.44154353755190695,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "原市",
@@ -10372,6 +11668,8 @@
         "lng": 139.623481,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 0.4177268371736939,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "沼南",
@@ -10388,6 +11686,8 @@
         "lng": 139.62228,
         "restaurantScore": 0.0,
         "priceScore": 0.9325667088211422,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "志久",
@@ -10404,6 +11704,8 @@
         "lng": 139.617094,
         "restaurantScore": 0.0,
         "priceScore": 0.3555371949907076,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "伊奈中央",
@@ -10420,6 +11722,8 @@
         "lng": 140.118592,
         "restaurantScore": 0.8555555555555555,
         "priceScore": 1.219291516262472,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "栄町",
@@ -10436,6 +11740,8 @@
         "lng": 139.901108,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 1.2327804294760192,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "平和台",
@@ -10452,6 +11758,8 @@
         "lng": 139.422201,
         "restaurantScore": 0.4166666666666667,
         "priceScore": 0.6225444792225566,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "松が谷",
@@ -10468,6 +11776,8 @@
         "lng": 139.410698,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.5200869205787738,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "程久保",
@@ -10484,6 +11794,8 @@
         "lng": 139.413242,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.8904037907973633,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "高松",
@@ -10500,6 +11812,8 @@
         "lng": 139.750675,
         "restaurantScore": 0.7407407407407408,
         "priceScore": 1.8000607100208459,
+        "isNearShinkansen": true,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "天王洲アイル",
@@ -10516,6 +11830,8 @@
         "lng": 139.748964,
         "restaurantScore": 0.0,
         "priceScore": 1.5469613259668507,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "流通センター",
@@ -10532,6 +11848,8 @@
         "lng": 139.749918,
         "restaurantScore": 0.16666666666666666,
         "priceScore": 2.7121799225273118,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "昭和島",
@@ -10548,6 +11866,8 @@
         "lng": 139.804395,
         "restaurantScore": 0.0,
         "priceScore": 1.4900129527142236,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "東雲",
@@ -10564,6 +11884,8 @@
         "lng": 139.791617,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 1.5878759295068308,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "国際展示場",
@@ -10580,6 +11902,8 @@
         "lng": 139.879376,
         "restaurantScore": 0.43333333333333335,
         "priceScore": 0.8693787276566189,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "新柴又",
@@ -10596,6 +11920,8 @@
         "lng": 139.768989,
         "restaurantScore": 0.4696969696969697,
         "priceScore": 1.156358380337078,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "赤土小学校前",
@@ -10612,6 +11938,8 @@
         "lng": 139.770381,
         "restaurantScore": 0.25,
         "priceScore": 0.8841846437587212,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "足立小台",
@@ -10628,6 +11956,8 @@
         "lng": 139.770808,
         "restaurantScore": 0.0,
         "priceScore": 0.8677085041720323,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "扇大橋",
@@ -10644,6 +11974,8 @@
         "lng": 139.770679,
         "restaurantScore": 0.0,
         "priceScore": 0.7612766801456631,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "高野",
@@ -10660,6 +11992,8 @@
         "lng": 139.770306,
         "restaurantScore": 0.25,
         "priceScore": 0.8102916523193574,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "江北",
@@ -10676,6 +12010,8 @@
         "lng": 139.770094,
         "restaurantScore": 0.25,
         "priceScore": 0.9077447220107789,
+        "isNearShinkansen": false,
+        "isNearCostco": false,
         "names": [
             {
                 "name": "西新井大師西",
@@ -10692,6 +12028,8 @@
         "lng": 139.770043,
         "restaurantScore": 0.3888888888888889,
         "priceScore": 0.8153975940072352,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "谷在家",
@@ -10708,6 +12046,8 @@
         "lng": 139.770183,
         "restaurantScore": 0.3333333333333333,
         "priceScore": 0.8470957487049342,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "舎人公園",
@@ -10724,6 +12064,8 @@
         "lng": 139.770108,
         "restaurantScore": 0.0,
         "priceScore": 0.794234357589182,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "舎人",
@@ -10740,6 +12082,8 @@
         "lng": 139.770719,
         "restaurantScore": 0.0,
         "priceScore": 0.6443514839272654,
+        "isNearShinkansen": false,
+        "isNearCostco": true,
         "names": [
             {
                 "name": "見沼代親水公園",

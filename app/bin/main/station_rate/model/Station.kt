@@ -1,5 +1,6 @@
 package station_rate
 
+import com.google.maps.model.LatLng
 import kotlinx.serialization.*
 
 @Serializable
@@ -24,9 +25,14 @@ class Station(
 ) {
     var restaurantScore: Double? = null
     var priceScore: Double? = null
+    var isNearShinkansen: Boolean = false
+    var isNearCostco: Boolean = false
 
     // val lines: MutableList<Line> = mutableListOf()
     val names: MutableList<StationName> = mutableListOf()
+
+    // Helpers
+    val coords: LatLng get() = LatLng(lat, lng)
     val englishName: String? get() = names.firstOrNull { it.type == StationNameType.English }?.name
     val kanjiName: String? get() = names.firstOrNull { it.type == StationNameType.Kanji }?.name
 }

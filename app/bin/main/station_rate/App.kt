@@ -8,6 +8,7 @@ import com.google.maps.model.LatLng
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
+import station_rate.input.StaticData
 import station_rate.input.pricing.loadPricingData
 import station_rate.input.station.loadStationData
 import station_rate.input.stations.metadata.loadStationMetadata
@@ -27,6 +28,10 @@ class App {
     fun loadInput() {
         val searchCenter = LatLng(35.6812, 139.7671)
         val api = MyPlacesApi()
+
+        val NiKoTama = Station(35.6113, 139.6264)
+        //println(api.getDepravityScore((NiKoTama)))
+        //return
 
         log("Loading pricing data")
         val pricingData = loadPricingData()
@@ -90,6 +95,18 @@ class App {
         log("Getting restaurant scores")
         validStations.forEach { station ->
             station.restaurantScore = api.getRestaurantScore(station)
+        }
+
+        // Enrich with binary landmark data (i.e., "Near costco")
+        log("Getting landmark data")
+        validStations.forEach { station ->
+            station.isNearShinkansen = StaticData.shikansenStations.any {
+                it.distanceKm(station.coords) <= 3
+            }
+
+            station.isNearCostco = StaticData.costcos.any {
+                it.distanceKm(station.coords) <= 12
+            }
         }
 
 //        val noPriceDataAfterFix = stations.filter { it.priceScore == null }

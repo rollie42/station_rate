@@ -1,25 +1,14 @@
 import com.google.maps.GeoApiContext
-import com.google.maps.NearbySearchRequest
 import com.google.maps.PlacesApi
 import com.google.maps.model.LatLng
 import com.google.maps.model.PlaceType
 import com.google.maps.model.PlacesSearchResponse
 import com.squareup.moshi.*
-import com.squareup.moshi.kotlin.reflect.*
-import com.squareup.moshi.kotlin.*
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
-import kotlinx.serialization.decodeFromString
-import kotlinx.serialization.encodeToString
-import kotlinx.serialization.json.Json
 import station_rate.Station
-import station_rate.input.station.*
 import station_rate.moshi.LocalTimeAdapter
 import station_rate.moshi.UrlAdapter
 import java.io.File
-import java.net.URL
-import java.time.LocalDateTime
-import java.time.LocalTime
-import java.time.format.DateTimeFormatter
 
 class MyPlacesApi {
     val context = GeoApiContext.Builder().apiKey(File("/tmp/station-rate.key").readText()).build()
@@ -28,6 +17,12 @@ class MyPlacesApi {
     fun getRestaurantScore(station: Station): Double {
         return listOf("indian", "mexican", "thai")
             .map { cachedQuery(station.lat, station.lng, PlaceType.RESTAURANT, it, 700).score() }
+            .average()
+    }
+
+    fun getDepravityScore(station: Station): Double {
+        return listOf("girl bar", "pachinko")
+            .map { cachedQuery(station.lat, station.lng, null, it, 600).score() }
             .average()
     }
 
@@ -40,7 +35,7 @@ class MyPlacesApi {
         return cachedQuery(lat, lon, PlaceType.TRAIN_STATION, "", 100)
     }
 
-    private fun cachedQuery(lat: Double, lon: Double, type: PlaceType, keyword: String, radiusMeters: Int): PlacesSearchResponse {
+    private fun cachedQuery(lat: Double, lon: Double, type: PlaceType?, keyword: String, radiusMeters: Int): PlacesSearchResponse {
         val key = "$lat-$lon-$type-$keyword-$radiusMeters"
 
         val cache = File(queryCache + key)
@@ -58,6 +53,7 @@ class MyPlacesApi {
             return adapter.fromJson(cache.readText())!!
         }
 
+        println("Calling Places API")
         val req = PlacesApi.nearbySearchQuery(context, LatLng(lat, lon))
         val resp = req
             .type(type)
@@ -65,8 +61,6 @@ class MyPlacesApi {
             .radius(radiusMeters)
             .language("en")
             .await()!!
-
-        println("Calling Places API")
 
         val json = adapter.toJson(resp)
         cache.writeText(json)

@@ -5,6 +5,7 @@ import Graph from './Graph'
 import Slider, {Range} from 'rc-slider'
 import 'rc-slider/assets/index.css'
 import { histogram } from 'utils'
+import {Title} from './FilterBar'
  
 const Container = styled.div`
     flex-direction: column;
@@ -13,16 +14,11 @@ const Container = styled.div`
     padding: 5px;
 `
 
-const Title = styled.div`
-`
-
 export default function GraphFilter({title, selector}) {
     const [filters, setFilters] = useContext(Context.FilterContext)
     const [stationData] = useContext(Context.StationDataContext)
     const records = stationData.map(d => d[selector])
     const buckets = histogram(records)
-    console.log(buckets)
-    console.log(filters[selector])
     const max = buckets.length - 1
 
     buckets.forEach((b, idx) => {

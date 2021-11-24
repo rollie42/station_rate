@@ -11,7 +11,6 @@ const Container = styled.div`
 `
 
 export default function Graph({buckets}) {
-    console.log(buckets.map(b => b.count))
     const options = {
         animation: false,
         grid: {
