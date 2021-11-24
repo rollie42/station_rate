@@ -22,10 +22,10 @@ const Icon = styled.img`
 function Record({data}) {
     const engName = data.names.find(r => r.type === "English").name
     const jpnName = data.names.find(r => r.type === "Kanji").name
+    const searchLink = `https://www.google.com/maps/search/${engName}+station/@35.6707246,139.6498826,11.25z`
     return(
         <tr>
-            <td>{engName}</td>
-            <td>{jpnName}</td>
+            <td><a href={searchLink}>{engName}</a> ({jpnName})</td>
             <td>{data.restaurantScore.toFixed(2)}</td>
             <td>{data.priceScore.toFixed(2)}</td>
             <td>
@@ -75,8 +75,7 @@ export default function ListView() {
             <Table>
                 <thead>
                     <tr>
-                        <th>English name</th>
-                        <th>Japanese name</th>
+                        <th>Name </th>
                         <th>Restaurant score</th>
                         <th>Price score</th>
                         <th>Tags</th>
