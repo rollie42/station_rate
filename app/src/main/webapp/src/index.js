@@ -7,6 +7,7 @@ import FilterBar from 'Filters/FilterBar'
 import styled from 'styled-components'
 import Context from 'Context'
 import ResultsPanel from 'Map/ResultsPanel'
+import { Status, Wrapper } from '@googlemaps/react-wrapper'
 
 
 const Container = styled.div`
@@ -14,11 +15,17 @@ const Container = styled.div`
   height: 100vh;
 `
 
+const render = (status) => {
+  return <h1>{status}</h1>;
+};
+
 function App() {
   return (
-    <Container className="App">
-      <FilterBar />
-      <ResultsPanel />
+    <Container className="App" render={render}>
+      {/* <Wrapper apiKey={'AIzaSyCpumSwwtnzCJRahDjwCnVObKfJLNR60zY'}> */}
+        <FilterBar />
+        <ResultsPanel />
+      {/* </Wrapper> */}
     </Container>
   );
 }

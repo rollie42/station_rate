@@ -35,3 +35,7 @@ export function histogram(data) {
     }
     return ret
 }
+
+const engName = (record) => record.names.find(r => r.type === "English").name
+const jpnName = (record) => record.names.find(r => r.type === "Kanji").name
+export {engName, jpnName}

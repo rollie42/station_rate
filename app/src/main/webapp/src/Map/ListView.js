@@ -1,7 +1,7 @@
 import { useState, useCallback, useContext, useEffect, useRef } from 'react'
 import * as Context from 'Context'
 import styled from 'styled-components'
-import { histogram } from 'utils'
+import { engName, histogram, jpnName } from 'utils'
 import ShinkansenImg from 'images/shinkansen.png'
 import CostcoImg from 'images/costco.png'
 import DataGrid from 'react-data-grid'
@@ -20,12 +20,10 @@ const Icon = styled.img`
 `
 
 function Record({data}) {
-    const engName = data.names.find(r => r.type === "English").name
-    const jpnName = data.names.find(r => r.type === "Kanji").name
     const searchLink = `https://www.google.com/maps/search/${engName}+station/@35.6707246,139.6498826,11.25z`
     return(
         <tr>
-            <td><a href={searchLink}>{engName}</a> ({jpnName})</td>
+            <td><a href={searchLink}>{engName(data)}</a> ({jpnName(data)})</td>
             <td>{data.restaurantScore.toFixed(2)}</td>
             <td>{data.priceScore.toFixed(2)}</td>
             <td>
@@ -64,11 +62,7 @@ const Table = styled.table`
 `
 
 export default function ListView() {
-    const [filters, setFilters] = useContext(Context.FilterContext)
-    const [stationData] = useContext(Context.StationDataContext)
-
-    const filteredData = filterStationData(stationData, filters)
-    filteredData.sort((a,b) => b.restaurantScore - a.restaurantScore)
+    const [filteredStationData] = useContext(Context.FilteredStationDataContext)
 
     return (
         <Container>
@@ -82,7 +76,7 @@ export default function ListView() {
                     </tr>
                 </thead>
                 <tbody>
-                    {filteredData.map(d => <Record data={d} />)}
+                    {filteredStationData.map(d => <Record data={d} />)}
                 </tbody>
             </Table>
         </Container>
