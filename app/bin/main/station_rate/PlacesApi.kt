@@ -10,8 +10,8 @@ import station_rate.moshi.LocalTimeAdapter
 import station_rate.moshi.UrlAdapter
 import java.io.File
 
-class MyPlacesApi {
-    val context = GeoApiContext.Builder().apiKey(File("/tmp/station-rate.key").readText()).build()
+class MyPlacesApi(apiKey: String? = null) {
+    val context = GeoApiContext.Builder().apiKey(apiKey ?: File("/tmp/station-rate.key").readText()).build()
     val queryCache = "/tmp/station-rate/query-cache/"
 
     fun getRestaurantScore(station: Station): Double {

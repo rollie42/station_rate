@@ -1,7 +1,7 @@
 import { useState, useCallback, useContext, useEffect, useRef } from 'react'
 import * as Context from 'Context'
 import styled from 'styled-components'
-import { engName, histogram, jpnName } from 'utils'
+import { engName, histogram, jpnName, key } from 'utils'
 import ShinkansenImg from 'images/shinkansen.png'
 import CostcoImg from 'images/costco.png'
 import DataGrid from 'react-data-grid'
@@ -76,7 +76,7 @@ export default function ListView() {
                     </tr>
                 </thead>
                 <tbody>
-                    {filteredStationData.map(d => <Record data={d} />)}
+                    {filteredStationData.map(d => <Record key={key(d)} data={d} />)}
                 </tbody>
             </Table>
         </Container>

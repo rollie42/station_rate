@@ -18,7 +18,6 @@ export default function Context({children}) {
         isNearCostco: "",
     })
     const [filteredStationData, setFilteredStationData] = useState(stationJson)
-    console.log(filteredStationData)
     
     return (
         <GameStateContext.Provider value={[gameState, setGameState]}>

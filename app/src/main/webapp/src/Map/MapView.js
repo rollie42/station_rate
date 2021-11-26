@@ -3,7 +3,7 @@ import * as Context from 'Context'
 import styled from 'styled-components'
 import ListView from './ListView'
 import { Status, Wrapper } from '@googlemaps/react-wrapper'
-import { engName } from 'utils'
+import { engName, key } from 'utils'
 
 const Container = styled.div`
     // display: block;
@@ -69,7 +69,8 @@ function MapView({children}) {
             setMap(new window.google.maps.Map(ref.current, {
                 center,
                 zoom,
-                disableDefaultUI: false
+                disableDefaultUI: true,
+                streetViewControl: false
             }));
         }
     }, [ref, map])
@@ -92,7 +93,7 @@ export default function WrappedMapView() {
     const title = (record) => `${engName(record)} - R:${record.restaurantScore.toFixed(2)} - P:${record.priceScore.toFixed(2)} [${record.isNearShinkansen ? 'S' : ''}${record.isNearCostco ? 'C' : ''}]`
     return (<Wrapper apiKey={'AIzaSyCpumSwwtnzCJRahDjwCnVObKfJLNR60zY'} render={render} >
         <MapView>
-            {filteredStationData.slice(0, 50).map(f => <Marker position={{ lat: f.lat, lng: f.lng }} title={title(f)}/>)}
+            {filteredStationData.slice(0, 50).map(f => <Marker key={key(f)} position={{ lat: f.lat, lng: f.lng }} title={title(f)}/>)}
         </MapView>
     </Wrapper>)
 }

@@ -4,9 +4,10 @@ import styled from 'styled-components'
 import ListView from './ListView'
 import WrappedMapView from './MapView'
 import { histogram } from 'utils'
+import { ToggleButton, ToggleButtonGroup } from '@mui/material'
 
 const Container = styled.div`
-
+    position: relative;
 `
 
 function FilteredResultsCalc() {
@@ -39,11 +40,32 @@ function FilteredResultsCalc() {
 
     return(<></>)
 }
+
+const ViewToggle = styled.span`
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: #ccccccee;
+    div {
+        width: initial;
+        height: initial;
+        display: block;
+    }
+`
+
 export default function ResultsPanel() {
+    const [view, setView] = useState('map')
     return (
         <Container>
             <FilteredResultsCalc />
-            <WrappedMapView />
+            {view === 'map' && <WrappedMapView />}
+            {view === 'list' && <ListView />}
+            <ViewToggle>
+                <ToggleButtonGroup onChange={(e,v) => setView(v)} value={view} exclusive>
+                    <ToggleButton value="map">Map</ToggleButton>
+                    <ToggleButton value="list">List</ToggleButton>
+                </ToggleButtonGroup>
+            </ViewToggle>
         </Container>
     )
 }

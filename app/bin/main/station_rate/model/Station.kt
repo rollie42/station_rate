@@ -25,8 +25,8 @@ class Station(
 ) {
     var restaurantScore: Double? = null
     var priceScore: Double? = null
-    var isNearShinkansen: Boolean = false
-    var isNearCostco: Boolean = false
+    var isNearShinkansen: Boolean? = null
+    var isNearCostco: Boolean? = null
 
     // val lines: MutableList<Line> = mutableListOf()
     val names: MutableList<StationName> = mutableListOf()

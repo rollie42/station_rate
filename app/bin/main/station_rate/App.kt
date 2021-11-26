@@ -30,8 +30,8 @@ class App {
         val api = MyPlacesApi()
 
         val NiKoTama = Station(35.6113, 139.6264)
-        //println(api.getDepravityScore((NiKoTama)))
-        //return
+        println(api.getDepravityScore((NiKoTama)))
+        return
 
         log("Loading pricing data")
         val pricingData = loadPricingData()
