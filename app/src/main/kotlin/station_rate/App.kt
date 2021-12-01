@@ -29,12 +29,13 @@ class App {
         val searchCenter = LatLng(35.6812, 139.7671)
         val api = MyPlacesApi()
 
-        val NiKoTama = Station(35.6113, 139.6264)
-        println(api.getDepravityScore((NiKoTama)))
-        return
+//        val NiKoTama = Station(35.6113, 139.6264)
+//        println(api.getDepravityScore((NiKoTama)))
+//        return
 
         log("Loading pricing data")
         val pricingData = loadPricingData()
+
 
         log("Loading station data")
         val stationInput = loadStationData().filter { s ->
@@ -76,26 +77,32 @@ class App {
             .filter { it.priceScore == null }
             .forEach { s ->
                 s.names.removeIf { it.type == StationNameType.English }
-                api.getTrainStation(s.lat, s.lng).let { resp ->
-                    if (resp.results.size > 0) {
-                        val name = resp.results[0].name.normalize()
-                        s.names += StationName(name, StationNameType.English)
-                        s.priceScore = pricingData[s.englishName]
-                    } else {
-                        log("No Place found for ${s.kanjiName}-${s.lng}-${s.lat}")
-                    }
+                try {
+                    api.getTrainStation(s.lat, s.lng).let { resp ->
+                        if (resp.results.size > 0) {
+                            val name = resp.results[0].name.normalize()
+                            s.names += StationName(name, StationNameType.English)
+                            s.priceScore = pricingData[s.englishName]
+                        } else {
+                            log("No Place found for ${s.kanjiName}-${s.lng}-${s.lat}")
+                        }
 
-                    // log("${s.kanjiName} - ${s.englishName} - ${s.priceScore}")
-                }
+                        // log("${s.kanjiName} - ${s.englishName} - ${s.priceScore}")
+                    }
+                } catch (e: Throwable) {}
             }
 
-        val validStations = stations.filter { it.priceScore != null }
+        var validStations = stations.filter { it.priceScore != null }
 
         // Enrich with restaurant data
         log("Getting restaurant scores")
         validStations.forEach { station ->
-            station.restaurantScore = api.getRestaurantScore(station)
+            try {
+                station.restaurantScore = api.getRestaurantScore(station)
+            } catch (e: Throwable) {}
         }
+
+        validStations = validStations.filter { it.restaurantScore != null }
 
         // Enrich with binary landmark data (i.e., "Near costco")
         log("Getting landmark data")

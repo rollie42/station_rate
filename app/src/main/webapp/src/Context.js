@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { histogramSize } from 'utils'
 import stationJson from './stationData'
 
 const GameStateContext = React.createContext({})
@@ -8,12 +9,12 @@ const FilteredStationDataContext = React.createContext(stationJson)
 
 stationJson.sort((a,b) => b.restaurantScore - a.restaurantScore)
 
-export default function Context({children}) {
+function ContextWrapper({children}) {
     const [gameState, setGameState] = useState({})
     const [stationData, setStationData] = useState(stationJson)
     const [filters, setFilters] = useState({
-        restaurantScore: [0, 20],
-        priceScore: [0, 20],
+        restaurantScore: [0, histogramSize-1],
+        priceScore: [0, histogramSize-1],
         isNearShinkansen: "",
         isNearCostco: "",
     })
@@ -32,4 +33,4 @@ export default function Context({children}) {
     )
 }
 
-export { GameStateContext, StationDataContext, FilterContext, FilteredStationDataContext }
+export { GameStateContext, StationDataContext, FilterContext, FilteredStationDataContext, ContextWrapper }

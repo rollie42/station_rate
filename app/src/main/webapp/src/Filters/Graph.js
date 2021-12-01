@@ -1,10 +1,10 @@
 import { useState, useCallback, useContext, useEffect, useRef } from 'react'
-import * as Context from 'Context'
+import { Div, Context } from 'Shared'
 import styled from 'styled-components'
 import { groupBy, histogram, sleep } from 'utils'
 import ReactECharts from 'echarts-for-react'
 
-const Container = styled.div`
+const Container = styled(Div)`
     flex: 4;
     min-height: 144px;
     max-height: 144px;
@@ -30,7 +30,7 @@ export default function Graph({buckets}) {
             data: buckets.map(b => { return { 
                 value: b.count,
                 itemStyle: {
-                    color: b.disabled ? 'grey' : 'blue'
+                    color: b.disabled ? '#507070' : '#00AAAF'
                 }
             }}),
             type: 'bar',

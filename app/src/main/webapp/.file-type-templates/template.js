@@ -1,8 +1,8 @@
 import { useState, useCallback, useContext, useEffect, useRef } from 'react'
-import * as Context from 'Context'
+import { Div, Context } from 'Shared'
 import styled from 'styled-components'
 
-const Container = styled.div`
+const Container = styled(Div)`
 
 `
 

@@ -5,12 +5,13 @@ import ReactDOM from 'react-dom'
 import MapView from 'Map/MapView'
 import FilterBar from 'Filters/FilterBar'
 import styled from 'styled-components'
-import Context from 'Context'
+import { Div, Context } from 'Shared'
 import ResultsPanel from 'Map/ResultsPanel'
 import { Status, Wrapper } from '@googlemaps/react-wrapper'
 
 
-const Container = styled.div`
+
+const Container = styled(Div)`
   width: 100vw;
   height: 100vh;
 `
@@ -22,19 +23,17 @@ const render = (status) => {
 function App() {
   return (
     <Container className="App" render={render}>
-      {/* <Wrapper apiKey={'AIzaSyCpumSwwtnzCJRahDjwCnVObKfJLNR60zY'}> */}
         <FilterBar />
         <ResultsPanel />
-      {/* </Wrapper> */}
     </Container>
   );
 }
 
 ReactDOM.render(
   <React.StrictMode>
-    <Context>
+    <Context.ContextWrapper>
       <App />
-    </Context>
+    </Context.ContextWrapper>
   </React.StrictMode>,
   document.getElementById('root')
 );

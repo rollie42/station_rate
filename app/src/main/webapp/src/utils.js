@@ -21,7 +21,7 @@ export function sleep(ms) {
 export function histogram(data) {
     const min = Math.min(...data)
     const max = Math.max(...data)
-    const step = (max - min) / 20
+    const step = (max - min) / histogramSize
     
     const bucket = el => Math.round((el - min) / step)
     const groups = groupBy(data, bucket)
@@ -39,4 +39,5 @@ export function histogram(data) {
 const engName = (record) => record.names.find(r => r.type === "English").name
 const jpnName = (record) => record.names.find(r => r.type === "Kanji").name
 const key = (record) => `${engName(record)}-${jpnName(record)}-${record.lat}-${record.lon}`
-export {engName, jpnName, key}
+const histogramSize = 40
+export {engName, jpnName, key, histogramSize}

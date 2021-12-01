@@ -49,11 +49,11 @@ class MyPlacesApi(apiKey: String? = null) {
         val adapter = moshi.adapter(PlacesSearchResponse::class.java)
 
         if (cache.exists()) {
-            println("Using cached value")
             return adapter.fromJson(cache.readText())!!
         }
 
         println("Calling Places API")
+        throw Exception("Not available right now")
         val req = PlacesApi.nearbySearchQuery(context, LatLng(lat, lon))
         val resp = req
             .type(type)

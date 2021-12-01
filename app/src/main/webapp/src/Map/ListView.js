@@ -1,12 +1,12 @@
 import { useState, useCallback, useContext, useEffect, useRef } from 'react'
-import * as Context from 'Context'
+import { Div, Context } from 'Shared'
 import styled from 'styled-components'
 import { engName, histogram, jpnName, key } from 'utils'
 import ShinkansenImg from 'images/shinkansen.png'
 import CostcoImg from 'images/costco.png'
 import DataGrid from 'react-data-grid'
 
-const RecordContainer = styled.div`
+const RecordContainer = styled(Div)`
     border: 1px solid black;
     min-height: 40px;
     max-height: 50px;
@@ -20,7 +20,7 @@ const Icon = styled.img`
 `
 
 function Record({data}) {
-    const searchLink = `https://www.google.com/maps/search/${engName}+station/@35.6707246,139.6498826,11.25z`
+    const searchLink = `https://www.google.com/maps/search/${engName(data)}+station/@35.6707246,139.6498826,11.25z`
     return(
         <tr>
             <td><a href={searchLink}>{engName(data)}</a> ({jpnName(data)})</td>
@@ -34,7 +34,7 @@ function Record({data}) {
     )
 }
 
-const Container = styled.div`
+const Container = styled(Div)`
     flex-direction: column;
     display: block;
     padding-left: 80px;

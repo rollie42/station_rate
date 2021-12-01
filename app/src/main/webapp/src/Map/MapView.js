@@ -1,25 +1,11 @@
 import React, { useState, useCallback, useContext, useEffect, useRef } from 'react'
-import * as Context from 'Context'
+import { Div, Context } from 'Shared'
 import styled from 'styled-components'
 import ListView from './ListView'
 import { Status, Wrapper } from '@googlemaps/react-wrapper'
 import { engName, key } from 'utils'
 
-const Container = styled.div`
-    // display: block;
-    // > div  {
-    //     display: block !important;
-    //     width: auto;
-    //     height: auto;
-    // }
-    div {
-        display: block;
-        height: auto;
-        width: auto;
-    }
-    // display: block;
-    // height: auto;
-    // width: auto;
+const Container = styled(Div)`
 `
 
 const render = (status) => {
